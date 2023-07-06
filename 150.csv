@@ -1,0 +1,65 @@
+Type of property,Location,postal code,immo code,Price,Address,Bedrooms,Energy class,Primary energy consumption,Furnished,Terrace,Terrace surface,Surface of the plot,Living room surface,Number of frontages,Construction year,Building condition,Outdoor parking space,Bathrooms,Shower rooms,Office,Toilets,Kitchen type,Heating type
+house,heist-aan-zee,8301,10643108,€460000,Knokkestraat 24,3,B,174,No,0,0,105,0,2,0,0,0,1,0,No,1,Installed,0
+house,haasrode,3053,10643107,€419000,Tiensesteenweg 350,3,B,174,No,Yes,0,175,0,2,1932,Good,0,1,0,No,2,0,0
+house,nijlen,2560,10643105,€209000,Donk 62,2,D,347,No,0,0,293,32,3,0,0,0,1,0,No,1,0,0
+apartment,%27s-gravenwezel,2970,10643103,€1200000,Kerkstraat 7,2,A,30,0,0,133,0,0,0,2023,0,0,2,0,0,0,Hyper equipped,Gas
+apartment,nieuwpoort,8620,10643100,€315000,Lombardsijdestraat 11 bus2,2,D,307,Yes,0,8,0,0,2,1993,Good,0,1,0,0,1,Semi equipped,Electric
+house,kessel-lo,3010,10643099,€448000,Diestsesteenweg 427 C,3,E,468,0,0,0,546,30,3,1930,Good,0,1,0,No,1,0,Gas
+apartment,ans,4430,10643094,€210000,Rue Lulay-des-Fèbvres 7,2,B,131,0,0,0,0,26,2,2011,Good,0,1,0,0,2,Installed,Gas
+apartment,deurne,2100,10643090,€275000,Waalsekaai 32,3,B,164,No,0,6,0,25,2,0,As new,0,1,1,0,1,USA hyper equipped,Gas
+apartment,uccle,1180,10643089,€285000,Avenue Brugmann 508,2,B,92,No,0,16,0,25,2,1970,Good,0,1,0,0,1,Installed,Gas
+house,rotselaar,3110,10643084,€395000,Mechelsesteenweg 382,2,B,129,0,0,0,224,0,3,1930,Just renovated,0,1,0,0,2,Installed,Gas
+mansion,ixelles,1050,10643081,€1395000,"Avenue Delleur, 8",4,E,229,No,0,32,167,45,2,1908,As new,0,2,2,Yes,3,Installed,Gas
+mansion,ixelles,1050,10643079,€1225000,Avenue Louise 231,4,G,450,No,0,25,110,0,3,1906,To renovate,0,2,1,Yes,2,Hyper equipped,Gas
+house,gavere,9890,10622486,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+villa,rhode-saint-gen%C3%88se,1640,10643077,€800000,Avenue Brugmann 508,5,E,413,No,0,60,1200,40,4,0,To renovate,0,3,0,0,5,USA installed,Gas
+apartment,antwerp,2050,10643074,€295000,Frederik Van Eedenplein 8,1,B,116,0,0,8,0,47,2,0,0,0,1,0,0,1,USA hyper equipped,0
+house,la%20louviere,7100,10643073,€185000,Rue du Moulin 2,3,C,176,No,Yes,0,167,0,2,0,0,0,1,0,0,0,USA installed,0
+house,haacht,3150,10643072,€369000,Nieuwstraat 77,4,B,187,0,0,40,198,31,2,1979,As new,0,1,1,0,2,Hyper equipped,Gas
+apartment,spa,4900,10643071,€597000,rue des dominicains 4E,4,Not specified,Not specified,No,0,52,0,0,4,2023,0,0,2,0,0,2,0,Gas
+apartment-block,evere,1140,10643066,€600000,Avenue Brugmann 508,5,E,259,No,0,0,148,0,0,1950,Good,0,0,0,0,0,0,Gas
+house,trazegnies,6183,10643065,€199000,"90, rue Jules Destrée",5,F,496,No,Yes,0,446,29,2,1900,To be done up,0,1,1,0,1,Installed,Gas
+house,couillet,6010,10643064,€119000,"90, rue Jules Destrée",3,E,411,No,Yes,0,130,14,2,1919,To renovate,0,1,1,0,2,Not installed,Gas
+house,seraing,4100,10643063,€249500,Rue Chapuis 24,3,E,373,No,0,30,135,17,3,0,Just renovated,0,1,1,0,2,Hyper equipped,Gas
+duplex,liege,4020,10643062,€139500,Rue Chapuis 24,2,D,340,No,0,0,0,14,2,0,To be done up,0,1,1,0,1,Installed,Gas
+house,seraing,4102,10643061,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+penthouse,woluwe-saint-lambert,1200,10643058,€399000,"Avenue des Cerisiers, 212",2,D,206,No,0,42,0,36,2,1992,Good,0,1,2,Yes,2,Installed,Gas
+apartment,ixelles,1050,10643057,€650000,Avenue Baron Albert d'Huart 130,2,C,135,0,Yes,0,0,25,2,1960,To renovate,0,2,1,0,2,Installed,Gas
+house,turnhout,2300,10643055,€349000,Graatakker 91,3,C,296,0,0,0,379,50,2,1960,0,0,2,0,0,2,Installed,0
+duplex,kampenhout,1910,10643054,€295000,Kerkstraat 127,2,B,128,0,0,33,0,26,2,1990,Good,0,1,0,0,1,Installed,Gas
+apartment,brussels%20city,1000,10643053,€138000,Molenstraat 93,1,C,116,Yes,0,0,0,0,0,1940,Good,0,1,0,0,1,USA installed,Gas
+house,liege,4000,10643052,€199000,Rue J. Wettinck 49,4,D,300,No,0,10,76,13,2,1900,To be done up,0,1,1,Yes,2,Semi equipped,Gas
+house,stekene,9190,10643048,€438000,"Dorpsstraat, 21",3,D,331,0,Yes,0,1134,43,4,1985,Good,0,1,0,0,2,Installed,Gas
+house,uccle,1180,10643047,€285000,Avenue Brugmann 508,4,G,491,No,0,20,255,25,2,1930,To renovate,0,1,0,0,1,Not installed,Gas
+house,aartselaar,2630,10643044,€345000,Kapellestraat 45,3,C,207,No,Yes,0,210,31,2,0,To be done up,0,1,1,0,3,USA installed,0
+ground-floor,ixelles,1050,10643043,€650000,Avenue Louise 589,2,C,135,No,0,0,0,50,2,1967,To be done up,0,2,1,Yes,3,Semi equipped,Gas
+house,izegem,8870,10643031,€350000,Gentsestraat 3 bus 1,4,E,431,No,Yes,0,669,0,4,1993,To be done up,0,1,0,0,1,Installed,0
+apartment,middelkerke,8430,10643028,€350000,Leopoldlaan 1,2,B,176,No,0,8,0,0,2,2003,As new,0,1,0,0,1,Installed,0
+service-flat,oostende,8400,10643027,€270000,Leopold II - laan 29,1,A,78,No,0,0,0,0,2,2023,Good,0,1,0,0,0,0,Gas
+apartment,oostende,8400,10643026,€320000,Leopold II - laan 29,2,D,316,No,0,0,0,0,4,0,Just renovated,0,1,0,0,1,Hyper equipped,Gas
+villa,sint-kruis,8310,10643022,€2050000,Vlamingstraat 62,5,A,25.14,No,Yes,0,1033,0,4,2019,As new,0,2,0,0,4,Hyper equipped,Gas
+apartment,merksem,2170,10643019,€204000,Lambrechtshoekenlaan 183,3,D,318,No,0,7,0,0,3,1971,Good,0,1,0,0,1,Installed,Gas
+house,chi%C3%A8vres,7950,10643015,€370000,Av. de Jemappes 173,3,D,331,0,0,100,1492,45,3,2007,Good,0,2,0,0,2,Installed,Electric
+house,sleidinge,9940,10643014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+house,houthulst,8650,10643011,€199000,Jonkershovestraat101/H,4,F,541,0,0,0,0,0,0,0,To be done up,0,0,0,No,0,0,0
+house,beringen,3580,10643008,€496000,"Antwerpsesteenweg, 88",3,Not specified,Not specified,No,0,48,520,0,3,2019,As new,0,1,0,No,2,Installed,Gas
+house,ganshoren,1083,10643007,€485000,"Avenue des Cerisiers, 212",4,C,150,No,0,5,420,13,2,1940,As new,0,1,1,Yes,2,Hyper equipped,Gas
+house,landen,3400,10642348,€,Hendrik van Veldekesingel 150,4,Not specified,Not specified,No,0,0,1076,14,3,2023,As new,0,1,0,No,2,Hyper equipped,0
+duplex,genk,3600,10264744,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+house,kontich,2550,10642999,€445000,Mechelbaan 445,3,F,553,0,Yes,0,966,0,0,0,0,0,1,0,No,1,Installed,Gas
+house,knokke-heist,8300,10642998,€2195000,Korenbloemdreef 1/A,4,Not specified,Not specified,0,0,0,883,0,0,2023,0,0,2,0,No,0,0,0
+mixed-use-building,lessines,7860,10642993,€165000,Dokter Honore Dewolfstraat 23,6,G,758,No,0,0,232,0,2,0,To renovate,0,1,0,Yes,2,0,Gas
+apartment,oostende,8400,10642991,€/week,Zeedijk 158,1,B,158,No,0,0,0,0,4,1990,Good,0,1,1,No,1,Installed,0
+house,ieper,8900,10620215,€95000,Rozenlaan 4,3,F,777,No,0,0,87,0,2,0,0,0,1,0,0,0,0,0
+house,heuvelland,8950,10379264,€95000,Rozenlaan 4,3,F,777,No,0,0,87,0,2,0,0,0,1,0,0,0,0,0
+apartment-block,mont-saint-guibert,1435,10642986,€495000,Chaussée de Namur 47,6,C,216,0,0,60,347,30,4,0,To renovate,0,4,0,0,6,0,0
+villa,nieuwenrode,1880,10642981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+house,kortessem,3720,10642980,€348000,Kempische Steenweg 398,3,Not specified,Not specified,No,Yes,0,526,0,3,2023,Good,0,1,0,Yes,0,Hyper equipped,Solar
+villa,zonhoven,3520,10642977,€525000,Kempische Steenweg 398,2,C,274,No,Yes,0,878,0,4,1995,Good,0,1,0,0,0,0,Gas
+house,kasterlee,2460,10642965,€465000,Bisschopslaan 16,2,B,189,No,Yes,0,1221,45,4,0,0,0,1,0,0,2,Hyper equipped,Gas
+house,tremelo,3120,10642957,€499000,Schrieksebaan 53B001,3,D,383,No,Yes,0,17656,0,4,1973,Good,0,1,0,Yes,2,Installed,0
+villa,schilde,2970,10642946,€1199000,Donksesteenweg 212,6,B,199,No,Yes,0,2790,0,0,0,As new,0,2,0,No,3,Installed,Gas
+duplex,bierbeek%20korbeek-lo,3360,10531808,€450000,Herbert Hooverplein 14,3,B,120,No,0,9,0,0,2,2007,Good,0,2,0,0,0,Hyper equipped,Gas
+penthouse,braine-l%27alleud,1420,10642943,€699000,Avenue Alphonse Allard 288,3,Not specified,Not specified,No,0,0,0,0,3,2021,0,0,2,0,0,0,0,0
+house,wevelgem,8560,10642937,€340000,Markeplaats 9,4,B,161,0,Yes,0,621,0,0,1967,0,0,0,0,No,0,0,0
+villa,lubbeek,3210,10642929,€2395000,Brusselsesteenweg 66,2,B,197,No,0,60,2181,42,4,2008,As new,0,2,3,Yes,4,Hyper equipped,0
