@@ -19,7 +19,11 @@ This project contains notebooks that has data cleaning process and few intrepret
 It is used to get clear view about few types of data visualisation, data cleaning process and a way to nalyse data.
 
 For reference:
+
+
 ![Capture](./Capture.PNG)
+
+
 
 * data_cleaning.ipynb - contains step by step process to clean 10,000 data.
 
