@@ -67,10 +67,10 @@ house,malonne,5020,10666283,700000.0,Joseph Durieux 151,3,C,223.0,0,0,80,12748,7
 house,namur saint-servais,5002,10666282,145000.0,Joseph Durieux 151,3,NS,0.0,0,0,40,1298,29,3,0,To renovate,0,1,1,0,2,0,Gas,Namur
 duplex,watermael-boitsfort,1170,10666278,620000.0,Avenue Louise 589,2,B,82.0,0,0,40,0,50,2,2005,As new,0,1,0,1,2,USA hyper equipped,Gas,Brussels Capital Region
 apartment,jette,1090,10666277,245000.0,Avenue François Sebrechts 26,2,E,250.0,0,0,8,0,30,0,1969,As new,0,1,0,0,1,Hyper equipped,0,Brussels Capital Region
-other-property,flobecq,7880,10666272,585000.0,Porte d'Ogy 78,5,G,848.0,0,1,0,3500,0,4,0,0,0,1,0,0,2,Installed,Fuel oil,Hainaut (West)
-country-cottage,flobecq,7880,10666271,585000.0,Porte d'Ogy 78,5,G,848.0,0,1,0,3500,0,4,0,0,0,1,0,0,2,Installed,Fuel oil,Hainaut (West)
-apartment,wondelgem,9032,10666267,20000.0,Alphonse Claeys-Bouüaertlaan 57/001,2,D,312.0,0,0,0,0,0,0,1968,To be done up,0,1,0,0,0,0,Gas,East Flanders
-apartment,gent,9000,10666266,20000.0,Alphonse Claeys-Bouüaertlaan 57/001,2,D,312.0,0,0,0,0,0,0,1968,To be done up,0,1,0,0,0,0,Gas,East Flanders
+other-property,flobecq,7880,10666272,585.0,Porte d'Ogy 78,5,G,848.0,0,1,0,3500,0,4,0,0,0,1,0,0,2,Installed,Fuel oil,Hainaut (West)
+country-cottage,flobecq,7880,10666271,585.0,Porte d'Ogy 78,5,G,848.0,0,1,0,3500,0,4,0,0,0,1,0,0,2,Installed,Fuel oil,Hainaut (West)
+apartment,wondelgem,9032,10666267,20.0,Alphonse Claeys-Bouüaertlaan 57/001,2,D,312.0,0,0,0,0,0,0,1968,To be done up,0,1,0,0,0,0,Gas,East Flanders
+apartment,gent,9000,10666266,20.0,Alphonse Claeys-Bouüaertlaan 57/001,2,D,312.0,0,0,0,0,0,0,1968,To be done up,0,1,0,0,0,0,Gas,East Flanders
 house,ledeberg,9050,10666265,339000.0,Alphonse Claeys-Bouüaertlaan 57/001,5,C,295.0,0,0,0,70,0,0,1899,To be done up,0,1,0,0,0,Semi equipped,Gas,East Flanders
 house,ledeberg,9050,10666264,339000.0,Alphonse Claeys-Bouüaertlaan 57/001,5,C,295.0,0,0,0,70,0,0,1899,To be done up,0,1,0,0,0,Semi equipped,Gas,East Flanders
 house,aarschot,3200,10666262,235000.0,Betekomsesteenweg 69F,2,D,398.0,0,0,0,174,0,0,1951,To renovate,0,1,0,1,1,0,Gas,Flemish Brabant
@@ -500,7 +500,7 @@ new-real-estate-project-houses,egem,8740,10666041,365000.0,Sasstraat 5,0,NS,0.0,
 new-real-estate-project-houses,pittem,8740,10666040,340000.0,Sasstraat 5,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 new-real-estate-project-houses,pittem,8740,10666039,349000.0,Sasstraat 5,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 apartment,gent,9000,10666038,199000.0,Ajuinlei 12,1,B,197.0,0,0,0,0,0,0,0,Just renovated,0,1,0,0,1,Installed,Gas,East Flanders
-new-real-estate-project-houses,veurne,8630,10666037,12000.0,Sasstraat 5,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
+new-real-estate-project-houses,veurne,8630,10666037,12.0,Sasstraat 5,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 house,schoten,2900,10666035,289000.0,Bredabaan 133,4,F,525.0,0,1,0,0,0,0,0,Good,0,2,0,0,2,Installed,Gas,Antwerp
 apartment,san pedro del pinatar,30740,10666033,179000.0,Elisabethlaan 336,2,NS,0.0,0,1,0,0,0,0,2024,0,0,2,0,0,0,0,0,
 apartment,ertvelde,9940,10666032,334000.0,Dorpsplein 1,2,A,30.0,0,1,0,0,0,0,2023,0,0,1,0,0,1,0,0,East Flanders
@@ -615,14 +615,14 @@ new-real-estate-project-houses,gent,9000,10665818,595000.0,Brusselsesteenweg 690
 new-real-estate-project-apartments,wetteren,9230,10665817,420000.0,Brusselsesteenweg 690,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
 new-real-estate-project-apartments,bachte-maria-leerne,9800,10665816,379000.0,Brusselsesteenweg 690,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
 new-real-estate-project-apartments,gent,9000,10665815,400000.0,Brusselsesteenweg 690,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
-house,lommel,3920,10665813,432355.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
-house,lommel,3920,10665812,432355.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
+house,lommel,3920,10665813,432.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
+house,lommel,3920,10665812,432.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
 apartment,bredene,8450,10665808,263000.0,Zuidstraat 2,2,NS,0.0,0,1,0,0,0,0,2023,0,0,1,0,0,1,Installed,Gas,West Flanders
 house,oostende,8400,10665807,299000.0,Zuidstraat 2,5,E,483.0,0,1,0,125,0,0,0,Good,0,1,0,0,2,Installed,Gas,West Flanders
 apartment,merelbeke,9820,10665805,295000.0,Dokter Honore Dewolfstraat 23,2,F,512.0,0,1,0,0,36,3,1995,As new,0,1,0,0,1,0,0,East Flanders
 house,oudenaarde,9700,10665801,149000.0,Dokter Honore Dewolfstraat 23,5,F,602.0,0,1,0,0,20,3,0,To renovate,0,1,0,0,1,0,Gas,East Flanders
 house,brakel,9660,10665800,249000.0,Dokter Honore Dewolfstraat 23,3,F,1073.0,0,0,0,2399,25,3,1940,0,0,1,0,0,1,0,Gas,East Flanders
-apartment,geel,2440,10665798,10000.0,Markt 20,1,C,231.0,0,1,0,0,0,2,2009,Good,0,1,0,0,1,0,Gas,Antwerp
+apartment,geel,2440,10665798,10.0,Markt 20,1,C,231.0,0,1,0,0,0,2,2009,Good,0,1,0,0,1,0,Gas,Antwerp
 house,temse,9140,10665796,241000.0,Parklaan 25,3,C,241.0,0,0,0,120,0,0,1933,Just renovated,0,1,0,0,2,Installed,Gas,East Flanders
 apartment,ledegem,8880,10645070,205000.0,Westlaan 466,1,B,182.0,0,1,0,0,0,0,0,As new,0,1,0,0,0,0,0,West Flanders
 new-real-estate-project-apartments,woluwe-saint-lambert,1200,10665755,1449000.0,Avenue Louise 480,0,B,77.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brussels Capital Region
@@ -694,6 +694,7 @@ apartment,deinze,9800,10665602,249000.0,Kortrijkstraat 58,2,C,241.0,0,0,20,0,0,2
 mixed-use-building,deinze,9800,10665600,1197000.0,Kortrijkstraat 58,8,NS,0.0,0,0,0,538,0,2,1965,To be done up,0,4,0,0,5,0,Gas,East Flanders
 house,deinze,9800,10665598,349000.0,Kortrijkstraat 58,3,B,104.0,0,0,0,194,0,2,1935,0,0,1,0,0,2,Installed,0,East Flanders
 house,assebroek,8310,10665597,259000.0,Komvest 1,3,C,207.0,0,0,0,0,0,0,0,Good,0,1,0,0,2,0,0,West Flanders
+apartment,deinze,9800,10665594,2.0,Kortrijkstraat 58,2,C,233.0,0,0,0,0,0,2,1965,To be done up,0,1,0,0,1,Semi equipped,Gas,East Flanders
 house,lokeren,9160,10665591,749000.0,Pauwstraat 24,4,NS,0.0,0,0,0,1050,0,4,2012,As new,0,1,0,0,2,Installed,0,East Flanders
 house,lochristi,9080,10665590,749000.0,Pauwstraat 24,4,NS,0.0,0,0,0,1050,0,4,2012,As new,0,1,0,0,2,Installed,0,East Flanders
 villa,assenede,9960,10665587,525000.0,Michel Gillemanstraat 6,3,D,331.0,0,0,0,1730,0,4,1977,Good,0,2,0,0,0,Installed,0,East Flanders
@@ -746,7 +747,7 @@ house,puurs-sint-amands,2890,10665452,495000.0,Korenmarkt 8,3,E,463.0,0,0,0,0,0,
 villa,wielsbeke,8710,10665450,550000.0,"Roterijstraat, 202",4,C,228.0,0,1,0,801,0,4,2005,Good,0,1,0,0,0,Installed,Gas,West Flanders
 apartment,antwerp,2018,10665448,180.0,Britselei 42,2,C,251.0,0,0,22,0,22,2,0,Good,0,1,0,0,1,Installed,Fuel oil,Antwerp
 house,lokeren,9160,10665439,210000.0,Durmelaan 24,3,C,255.0,0,0,0,103,0,2,1965,Good,0,0,0,0,2,0,Gas,East Flanders
-apartment,mechelen,2800,10665438,23000.0,Dorp 35,3,B,174.0,0,0,0,0,0,2,1966,Good,0,1,0,0,2,0,Gas,Antwerp
+apartment,mechelen,2800,10665438,23.0,Dorp 35,3,B,174.0,0,0,0,0,0,2,1966,Good,0,1,0,0,2,0,Gas,Antwerp
 house,menen,8930,10665437,99000.0,Vierkeerstraat 2 bus 2,3,E,434.0,0,0,0,55,12,2,0,To renovate,0,1,0,0,1,0,Gas,West Flanders
 house,menen,8930,10665436,220000.0,Vierkeerstraat 2 bus 2,4,B,181.0,0,0,0,123,16,2,1918,Good,0,1,0,0,2,0,Gas,West Flanders
 house,maarkedal,9680,10665435,549000.0,Posterijstraat 61,3,NS,0.0,0,1,0,519,0,3,2022,Good,0,1,0,0,2,0,0,East Flanders
@@ -812,7 +813,7 @@ villa,estaimpuis,7730,10665278,365000.0,Izegemstraat 355,4,NS,0.0,0,1,0,750,0,4,
 flat-studio,namur,5000,10665277,85000.0,Chaussée de Bruxelles 23 (sur N5),1,D,289.0,0,0,0,0,16,0,1930,Good,0,0,1,0,1,Semi equipped,Gas,Namur
 mansion,lichtervelde,8810,10665275,529000.0,Leopold 2 laan 83a,6,NS,0.0,0,0,0,906,0,2,0,0,0,2,0,0,4,Installed,0,West Flanders
 apartment,waremme,4300,10665274,320000.0,"rue De Huy, 273",3,B,152.0,0,0,40,0,25,0,2007,As new,0,1,0,0,3,Installed,Gas,Liège
-exceptional-property,villers-le-bouillet,4530,10665269,43900000.0,Avenue du Condroz 1/0,4,B,170.0,0,0,0,2636,0,3,0,Just renovated,0,2,0,0,0,0,Fuel oil,Liège
+exceptional-property,villers-le-bouillet,4530,10665269,439000.0,Avenue du Condroz 1/0,4,B,170.0,0,0,0,2636,0,3,0,Just renovated,0,2,0,0,0,0,Fuel oil,Liège
 house,macquenoise,6593,10665267,110000.0,Rue des ormeaux 14,3,F,504.0,0,0,0,900,27,4,0,0,0,1,0,0,0,Not installed,0,Luxembourg (shared with Eastern Hainaut)
 house,gilly (charleroi),6060,10665264,120000.0,Rue de Montigny 38,1,G,554.0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,Gas,Luxembourg (shared with Eastern Hainaut)
 house,bomal (ramillies),1367,10665262,420000.0,Avenue Reine Astrid 65,4,NS,0.0,0,1,0,768,0,3,2023,As new,0,1,1,0,2,Hyper equipped,0,Walloon Brabant
@@ -855,7 +856,7 @@ house,bouwel,2288,10665167,549000.0,Antwerpsesteenweg 359,3,C,255.0,0,1,0,700,0,
 house,hofstade,9308,10665164,238000.0,Keiberg 16,2,F,1090.0,0,0,16,210,0,3,1930,0,0,1,1,0,1,Installed,Gas,East Flanders
 house,haine-st-pierre,7100,10665163,325000.0,Grand Place 33,3,B,151.0,0,0,0,289,0,3,0,Good,0,0,1,0,1,Installed,Gas,Hainaut (West)
 house,ath,7800,10665160,190000.0,"Rue de Nazareth , 15",2,D,303.0,0,0,0,240,31,3,0,Good,0,1,1,1,1,Semi equipped,Gas,Hainaut (West)
-flat-studio,molenbeek-saint-jean,1080,10665158,25000.0,Parvis Sainte-Alix 37,0,C,113.0,0,0,5,0,27,2,2017,As new,0,1,1,0,1,USA hyper equipped,Gas,Brussels Capital Region
+flat-studio,molenbeek-saint-jean,1080,10665158,25.0,Parvis Sainte-Alix 37,0,C,113.0,0,0,5,0,27,2,2017,As new,0,1,1,0,1,USA hyper equipped,Gas,Brussels Capital Region
 house,redu,6890,10665156,329900.0,Rue du Commerce 25,3,C,0.0,0,0,0,1096,0,4,2005,Good,0,2,0,0,3,Hyper equipped,Fuel oil,Luxembourg (shared with Eastern Hainaut)
 new-real-estate-project-apartments,leuven,3000,10664937,744540.0,Keizershoek 350A,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Flemish Brabant
 house,ninove,9400,10665137,325000.0,Meyskensstraat 222,2,B,116.0,0,0,20,183,23,2,1930,As new,0,1,0,0,2,Installed,Gas,East Flanders
@@ -887,6 +888,7 @@ apartment,kortrijk,8500,10665044,145000.0,Vanackerestraat 2,1,D,306.0,0,0,14,0,0
 new-real-estate-project-apartments,berchem-sainte-agathe,1082,10664978,480000.0,Avenue Louise 200,0,B,70.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brussels Capital Region
 new-real-estate-project-apartments,oostende,8400,10664972,700000.0,Wittenonnenstraat 67,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 new-real-estate-project-apartments,oostende,8400,10664969,470000.0,Wittenonnenstraat 67,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
+new-real-estate-project-apartments,woluwe-saint-pierre,1150,10664968,185000.0,Avenue Louise 200,0,C,120.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brussels Capital Region
 new-real-estate-project-apartments,oostende,8400,10664967,515000.0,Wittenonnenstraat 67,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 new-real-estate-project-houses,koekelare,8680,10664966,426000.0,Wittenonnenstraat 67,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 house,gistel,8470,10664965,575000.0,Wittenonnenstraat 67,3,NS,0.0,0,0,0,461,35,0,0,Good,0,1,0,0,1,0,0,West Flanders
@@ -911,12 +913,13 @@ house,averbode,3271,10664818,779000.0,Vaartstraat 176,4,NS,0.0,0,0,0,1500,0,4,0,
 apartment,berchem-sainte-agathe,1082,10664812,480000.0,Avenue Louise 200,4,B,70.0,0,0,25,0,38,4,2023,0,0,2,0,0,2,USA hyper equipped,Gas,Brussels Capital Region
 apartment,berchem-sainte-agathe,1082,10664811,355000.0,Avenue Louise 200,2,B,70.0,0,0,7,0,30,4,2023,0,0,1,0,0,2,USA hyper equipped,Gas,Brussels Capital Region
 flat-studio,berchem-sainte-agathe,1082,10664810,195000.0,Avenue Louise 200,0,B,70.0,0,0,0,0,26,4,2023,0,0,1,0,0,1,USA hyper equipped,Gas,Brussels Capital Region
-apartment,berchem-sainte-agathe,1082,10664809,5000.0,Avenue Louise 200,1,B,70.0,0,0,2,0,30,4,2023,0,0,1,0,0,1,USA hyper equipped,Gas,Brussels Capital Region
+apartment,berchem-sainte-agathe,1082,10664809,5.0,Avenue Louise 200,1,B,70.0,0,0,2,0,30,4,2023,0,0,1,0,0,1,USA hyper equipped,Gas,Brussels Capital Region
 flat-studio,woluwe-saint-pierre,1150,10664807,185000.0,Avenue Louise 200,0,C,115.0,0,0,0,0,27,2,0,0,0,1,0,0,1,Installed,Gas,Brussels Capital Region
 flat-studio,woluwe-saint-pierre,1150,10664806,215000.0,Avenue Louise 200,0,C,115.0,0,0,5,0,27,2,0,0,0,1,0,0,1,Installed,Gas,Brussels Capital Region
 flat-studio,woluwe-saint-pierre,1150,10664805,189500.0,Avenue Louise 200,0,C,115.0,0,0,0,0,25,2,0,0,0,1,0,0,1,Installed,Gas,Brussels Capital Region
+apartment,forest,1190,10664804,25.0,Avenue Louise 200,1,B,75.0,0,0,7,0,35,2,2023,0,0,1,0,0,0,USA hyper equipped,Gas,Brussels Capital Region
 flat-studio,forest,1190,10664803,207000.0,Avenue Louise 200,0,B,75.0,0,0,3,0,27,2,2023,0,0,0,0,0,0,USA hyper equipped,Gas,Brussels Capital Region
-apartment,forest,1190,10664802,25000.0,Avenue Louise 200,3,B,75.0,0,0,10,0,42,2,2023,0,0,1,1,0,2,USA hyper equipped,Gas,Brussels Capital Region
+apartment,forest,1190,10664802,25.0,Avenue Louise 200,3,B,75.0,0,0,10,0,42,2,2023,0,0,1,1,0,2,USA hyper equipped,Gas,Brussels Capital Region
 apartment,forest,1190,10664801,25000.0,Avenue Louise 200,2,B,75.0,0,0,15,0,30,2,2023,0,0,1,0,0,0,USA hyper equipped,Gas,Brussels Capital Region
 house,neufchâteau,6840,10664794,250000.0,"Avenue de la Gare, 171",11,D,286.0,0,0,0,665,0,2,1918,To renovate,0,3,0,1,0,0,Fuel oil,Luxembourg (shared with Eastern Hainaut)
 apartment,antwerp,2000,10664791,695000.0,Vorstlaan 292,2,B,125.0,0,0,8,0,0,2,2018,As new,0,2,1,0,2,USA hyper equipped,Gas,Antwerp
@@ -931,7 +934,7 @@ house,gouy-lez-piéton,6181,10582397,129000.0,Place Communale 18,1,D,325.0,1,0,1
 house,pont-à-celles,6230,10658997,115000.0,Place Communale 18,1,D,325.0,1,0,10,240,18,2,1950,To renovate,0,1,1,1,1,Installed,Electric,Luxembourg (shared with Eastern Hainaut)
 house,sint-gillis-waas,9170,10664768,120000.0,Kerkstraat 2,1,F,636.0,0,0,10,90,0,2,1850,To renovate,0,1,0,0,1,Semi equipped,Gas,East Flanders
 bungalow,yvoir,5530,10664765,140000.0,Place Albert 1er 9,2,NS,0.0,1,0,20,200,15,4,0,0,0,0,1,0,1,USA hyper equipped,Gas,Namur
-apartment,edegem,2650,10664764,29000.0,Strijdersstraat 8,3,C,225.0,0,0,0,0,0,3,1973,To renovate,0,1,0,0,1,0,0,Antwerp
+apartment,edegem,2650,10664764,29.0,Strijdersstraat 8,3,C,225.0,0,0,0,0,0,3,1973,To renovate,0,1,0,0,1,0,0,Antwerp
 exceptional-property,galmaarden,1570,10664763,449000.0,Kerklaan 66/1,3,B,114.0,0,0,0,886,0,3,2011,0,0,1,1,0,2,Semi equipped,Gas,Flemish Brabant
 villa,mechelen,2800,10664758,747000.0,Dr. Persoonslaan 15 b,3,D,320.0,0,0,0,751,0,4,1949,Good,0,1,0,0,2,0,Gas,Antwerp
 house,st-vith,4780,10664757,295000.0,Poteauerstrasse 90,3,G,530.0,0,0,0,2897,44,4,1875,0,0,1,0,0,2,Installed,Fuel oil,Liège
@@ -1067,6 +1070,7 @@ apartment-block,ixelles,1050,10664427,1050000.0,Place du Châtelain 35,0,F,333.0
 house,stekene,9190,10664425,475000.0,"Dorpsstraat, 21",3,A,75.0,0,1,0,726,35,3,2015,Good,0,1,0,0,2,Installed,Gas,East Flanders
 house,sint-gillis-bij-dendermonde (dendermonde),9200,10664424,220000.0,Noordlaan 79,3,D,353.0,0,0,0,80,0,2,1937,To be done up,0,1,0,0,0,0,Gas,East Flanders
 house,vellereille-les-brayeux,7120,10664420,500000.0,"Route de Mons, 313",4,C,191.0,0,1,0,3600,0,4,2003,Good,0,1,3,0,5,Installed,Fuel oil,Hainaut (West)
+penthouse,bruxelles,1000,10664414,795000.0,Rue du Vieux-Mayeur 51,2,D,151.0,0,0,50,0,0,0,0,As new,0,0,0,0,2,Hyper equipped,Gas,Brussels Capital Region
 villa,oostkamp,8020,10664408,545000.0,Park 2,4,F,556.0,0,1,0,937,47,4,0,Good,0,2,0,0,2,Installed,Fuel oil,West Flanders
 house,coutisse,5300,10664407,295000.0,Place des Tilleuls 3,3,C,218.0,0,1,0,1192,0,4,2001,Good,0,1,0,0,2,Installed,Fuel oil,Namur
 new-real-estate-project-apartments,lier,2500,10664373,1297000.0,Poortakkerstraat 94,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Antwerp
@@ -1161,7 +1165,7 @@ house,grivegnée,4030,10664119,245000.0,rue de Louveigné 30b,4,C,227.0,0,0,0,18
 penthouse,eeklo,9900,10664113,219000.0,Boelare 67,2,B,172.0,0,0,10,0,0,2,1994,Good,0,1,0,0,0,0,Gas,East Flanders
 apartment,forest,1190,10664111,159000.0,Avenue Charles Quint 515,1,G,372.0,0,0,3,0,15,3,1940,To renovate,0,1,1,0,1,Semi equipped,Gas,Brussels Capital Region
 apartment,forest,1190,10664109,199000.0,Avenue Charles Quint 515,2,G,376.0,0,0,3,0,16,3,1940,To renovate,0,1,1,0,1,Semi equipped,Gas,Brussels Capital Region
-house,waregem,8790,10664108,225000.0,Holstraat 86,4,F,770.0,0,0,0,480,0,4,1971,To renovate,0,1,0,0,0,0,Gas,West Flanders
+house,waregem,8790,10664108,225.0,Holstraat 86,4,F,770.0,0,0,0,480,0,4,1971,To renovate,0,1,0,0,0,0,Gas,West Flanders
 villa,neupre,4121,10664092,365000.0,Borchamps 24,4,C,193.0,0,0,46,0,32,4,1976,Good,0,2,0,0,2,Installed,Fuel oil,Liège
 villa,strée,6511,10664091,280000.0,Borchamps 24,3,D,292.0,0,0,48,773,0,4,0,Good,0,1,1,0,2,0,Electric,Luxembourg (shared with Eastern Hainaut)
 country-cottage,nechin,7730,10610606,649000.0,Rue de Menin 400,5,D,326.0,0,0,60,1592,0,4,0,As new,0,2,2,1,0,Installed,Electric,Hainaut (West)
@@ -1418,7 +1422,7 @@ ground-floor,willebroek,2830,10663533,260000.0,Mechelsesteenweg 161A 002,2,A,31.
 duplex,antwerp,2000,10663531,315000.0,"Orteliuskaai, 8",2,D,351.0,0,0,5,0,0,2,0,Good,0,1,0,0,0,0,Gas,Antwerp
 house,antwerp,2600,10663530,695000.0,"Orteliuskaai, 8",6,D,372.0,0,0,30,197,48,3,1962,Good,0,3,0,1,4,0,Fuel oil,Antwerp
 mixed-use-building,antwerp,2600,10663529,695000.0,"Orteliuskaai, 8",6,D,372.0,0,0,30,197,48,3,1962,Good,0,3,0,1,4,0,Fuel oil,Antwerp
-house,merksem,2170,10663527,25000.0,"Orteliuskaai, 8",3,C,256.0,0,0,8,128,30,2,0,Good,0,1,0,0,0,0,Gas,Antwerp
+house,merksem,2170,10663527,25.0,"Orteliuskaai, 8",3,C,256.0,0,0,8,128,30,2,0,Good,0,1,0,0,0,0,Gas,Antwerp
 house,antwerpen deurne,2100,10663526,385000.0,"Orteliuskaai, 8",4,E,409.0,0,0,10,220,0,2,0,Good,0,1,0,0,2,0,Gas,Antwerp
 new-real-estate-project-apartments,genk,3600,10663520,283500.0,Het Dorlik 16,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Limburg
 villa,uccle,1180,10663519,1950000.0,"Avenue Delleur, 8",6,C,123.0,0,1,0,1095,0,4,1936,As new,0,5,4,1,5,Hyper equipped,Gas,Brussels Capital Region
@@ -1489,6 +1493,7 @@ house,roeselare,8800,10663370,315000.0,Brugsesteenweg 43,1,B,179.0,0,0,16,83,16,
 house,lendelede,8860,10663369,320000.0,Brugsesteenweg 43,4,C,282.0,0,1,0,319,0,0,0,As new,0,1,0,0,2,Installed,Gas,West Flanders
 apartment,corroy-le-chÃteau,5032,10663367,250000.0,Avenue Général Mellier 20,4,D,315.0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,Namur
 apartment,kaprijke,9970,10663365,138000.0,Boelare 86,1,NS,0.0,0,0,21,0,0,0,1910,0,0,1,0,0,0,0,0,East Flanders
+apartment,antwerp,2018,10663352,35.0,Turnhoutsebaan 175,2,C,262.0,0,0,20,0,0,0,1977,0,0,1,0,0,1,Installed,Gas,Antwerp
 house,zoutleeuw,3440,10663351,160000.0,Postlaan 1W4,2,NS,0.0,0,0,0,0,0,0,1918,As new,0,1,0,0,0,0,0,Flemish Brabant
 house,waasmont,3401,10663350,130000.0,Postlaan 1W4,3,F,1322.0,0,0,0,850,0,0,0,To renovate,0,1,0,0,1,0,0,Flemish Brabant
 house,denderleeuw,9470,10663348,299000.0,Erembodegemstraat 9,3,F,745.0,0,0,0,506,0,2,1972,0,0,1,0,0,2,Installed,Fuel oil,East Flanders
@@ -1538,6 +1543,7 @@ ground-floor,houthalen,3530,10663256,315000.0,Kempische Steenweg 398,2,A,93.0,0,
 house,diksmuide,8600,10663254,175000.0,Houtmarkt 9,2,F,948.0,0,0,0,402,0,2,1930,To renovate,0,1,0,0,0,0,Fuel oil,West Flanders
 house,vosselaar,2350,10663250,409000.0,Kempenlaan 32,3,B,175.0,0,1,0,266,33,2,2011,As new,0,1,0,0,2,Installed,Gas,Antwerp
 house,gierle,2275,10663249,384000.0,Kempenlaan 32,3,F,1011.0,0,0,0,1705,0,4,1975,To be done up,0,1,0,0,1,Installed,Fuel oil,Antwerp
+apartment,turnhout,2300,10663248,20.0,Kempenlaan 32,3,B,113.0,0,0,9,0,35,2,1977,To renovate,0,1,0,0,1,Semi equipped,Gas,Antwerp
 house,roeselare,8800,10663246,295000.0,Tategemstraat 30,3,NS,0.0,0,0,25,89,30,2,2023,As new,0,1,0,0,2,Hyper equipped,Gas,West Flanders
 house,belsele,9111,10663245,495000.0,Parklaan 25,4,NS,0.0,0,0,0,300,0,0,2024,0,0,1,0,0,0,Installed,Electric,East Flanders
 house,belsele,9111,10663244,547000.0,Parklaan 25,4,NS,0.0,0,0,0,491,0,0,2024,0,0,1,0,0,0,Installed,Electric,East Flanders
@@ -1596,12 +1602,12 @@ house,zottegem,9620,10663052,129500.0,Keizersplein 21,2,F,1039.0,0,0,0,86,0,0,0,
 house,aalst,9300,10663049,155000.0,Keizersplein 21,1,F,915.0,0,0,0,60,0,0,0,To be done up,0,1,0,0,1,Installed,Gas,East Flanders
 apartment,sint-denijs-westrem,9051,10663045,365000.0,Brusselsesteenweg 690,3,A,25.0,0,0,13,0,31,0,2025,0,0,3,0,0,1,Hyper equipped,0,East Flanders
 apartment,sint-denijs-westrem,9051,10663044,320000.0,Brusselsesteenweg 690,2,A,25.0,0,0,13,0,34,0,2025,0,0,1,0,0,1,Hyper equipped,0,East Flanders
-house,lommel,3920,10663041,442355.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
-house,lommel,3920,10663040,432355.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
-house,lommel,3920,10663037,442355.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
-house,schoten,2900,10663036,289000.0,"Handelslei, 76",2,E,458.0,0,0,0,117,0,0,1933,Good,0,1,0,0,2,0,0,Antwerp
-penthouse,lommel,3920,10663035,87500.0,Baan naar Bree 25,2,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
-apartment,lommel,3920,10663034,371080.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
+house,lommel,3920,10663041,442.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
+house,lommel,3920,10663040,432.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
+house,lommel,3920,10663037,442.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
+house,schoten,2900,10663036,289.0,"Handelslei, 76",2,E,458.0,0,0,0,117,0,0,1933,Good,0,1,0,0,2,0,0,Antwerp
+penthouse,lommel,3920,10663035,87.0,Baan naar Bree 25,2,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
+apartment,lommel,3920,10663034,371.0,Baan naar Bree 25,3,NS,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,0,0,0,Limburg
 house,othÉe,4340,10663032,395000.0,Rue Charles Magnette 24/40,3,D,335.0,0,0,60,850,40,4,0,As new,0,1,0,0,2,Not installed,0,Liège
 apartment,koksijde,8670,10663030,399000.0,Westendestraat 12,2,C,266.0,1,1,0,0,0,0,1976,Just renovated,0,0,0,0,1,0,0,West Flanders
 apartment,brasschaat,2930,10663029,249000.0,Lage Kaart 382,2,D,301.0,0,0,6,0,0,2,1973,0,0,1,1,0,1,Semi equipped,Gas,Antwerp
@@ -1688,7 +1694,7 @@ house,laarne,9270,10662858,399000.0,Pauwstraat 24,4,B,137.0,0,0,0,153,0,2,1999,G
 villa,horebeke,9667,10662857,549000.0,Staatsbaan 110,4,C,239.0,0,0,30,2080,40,4,1991,Good,0,2,1,0,3,Installed,0,East Flanders
 duplex,knokke,8300,10662855,1250000.0,Driehoeksplein 1,3,B,125.0,0,0,22,0,0,2,1996,As new,0,3,0,0,2,0,0,West Flanders
 apartment,knokke,8300,10662854,1350000.0,Driehoeksplein 1,2,C,224.0,0,0,0,0,27,2,1967,0,0,2,0,0,0,0,Gas,West Flanders
-apartment,knokke,8300,10662853,45000.0,Driehoeksplein 1,3,B,158.0,0,0,12,0,0,2,1977,0,0,2,0,0,0,0,Gas,West Flanders
+apartment,knokke,8300,10662853,45.0,Driehoeksplein 1,3,B,158.0,0,0,12,0,0,2,1977,0,0,2,0,0,0,0,Gas,West Flanders
 house,roeselare,8800,10662851,289000.0,Harelbekestraat 50,4,NS,0.0,0,0,0,326,0,2,2022,0,0,0,0,0,2,0,0,West Flanders
 duplex,bastogne,6600,10662849,290000.0,Place McAuliffe 43,2,B,113.0,0,0,22,0,0,3,2014,0,0,0,1,0,2,Installed,Gas,Luxembourg (shared with Eastern Hainaut)
 apartment,peer,3990,10662848,167800.0,"Genkersteenweg, 426",1,C,227.0,0,0,0,0,0,2,1998,Good,0,1,0,0,1,0,Gas,Limburg
@@ -1716,7 +1722,7 @@ apartment,morlanwelz-mariemont,7140,10662799,180000.0,"Route de Mons, 313",2,C,2
 house,athus,6791,10662798,319000.0,"Rue de Hotton, 22",4,D,312.0,0,0,20,392,34,3,0,Good,0,1,0,0,2,Semi equipped,Fuel oil,Luxembourg (shared with Eastern Hainaut)
 house,grand-halleux,6698,10662797,279000.0,"Rue de Hotton, 22",2,F,439.0,0,0,15,1646,38,4,1918,Good,0,1,0,0,2,Semi equipped,Fuel oil,Luxembourg (shared with Eastern Hainaut)
 villa,ruiselede,8755,10662779,620000.0,Kortrijkstraat 58,5,D,383.0,0,0,0,1453,0,3,1966,To be done up,0,2,0,0,2,Semi equipped,Gas,West Flanders
-apartment,lendelede,8860,10662777,20000.0,Kortrijkstraat 58,1,B,119.0,0,0,0,0,0,3,2017,0,0,1,1,0,1,Installed,Gas,West Flanders
+apartment,lendelede,8860,10662777,20.0,Kortrijkstraat 58,1,B,119.0,0,0,0,0,0,3,2017,0,0,1,1,0,1,Installed,Gas,West Flanders
 apartment,deinze,9800,10662775,229000.0,Kortrijkstraat 58,2,C,235.0,0,0,0,0,0,2,1978,0,0,1,0,0,1,Installed,Gas,East Flanders
 house,mouscron,7700,10662767,389000.0,Rue de Courtrai 28,4,B,163.0,0,0,0,603,30,4,2002,Just renovated,0,2,0,0,2,Not installed,Gas,Hainaut (West)
 house,berchem,2600,10662761,549000.0,Lodewijk van Berckenlaan 167,3,B,195.0,0,0,20,320,41,3,2000,Good,0,0,0,1,2,Installed,Gas,Antwerp
@@ -1919,7 +1925,7 @@ apartment-block,tournai,7500,10662003,189000.0,Impasse Saint-Paul 16,0,E,406.0,0
 exceptional-property,knesselare,9910,10661999,4235000.0,Wiezeplein 13,30,B,139.0,0,1,0,6014,0,4,0,0,0,0,0,1,0,0,Gas,East Flanders
 duplex,anderlecht,1070,9808607,225000.0,Bd Félix Paulsen 24-26,2,E,266.0,0,0,0,0,33,2,0,0,0,1,0,0,0,Installed,Gas,Brussels Capital Region
 house,st-niklaas,9100,10661998,149000.0,Ten Bos 11,2,D,370.0,0,1,0,70,0,2,1918,To renovate,0,1,0,0,1,Semi equipped,Gas,East Flanders
-apartment,linkeroever (antwerpen),2050,10661992,25000.0,Blancefloerlaan 301,2,B,174.0,0,0,10,0,0,3,1975,Good,0,1,0,0,0,Installed,Gas,Antwerp
+apartment,linkeroever (antwerpen),2050,10661992,25.0,Blancefloerlaan 301,2,B,174.0,0,0,10,0,0,3,1975,Good,0,1,0,0,0,Installed,Gas,Antwerp
 house,sint-niklaas,9100,10661989,325000.0,Bredabaan 433,3,C,213.0,0,0,15,289,0,2,0,0,0,1,0,0,2,Installed,Gas,East Flanders
 apartment,nimy,7020,10661982,219000.0,"Rue de la Besace, 14",2,B,0.0,0,0,27,0,33,0,0,0,0,0,1,0,1,Semi equipped,Gas,Hainaut (West)
 house,sint-katelijne-waver,2860,10661967,598000.0,Mechelbaan 509,3,C,291.0,0,1,0,1485,0,4,1973,Good,0,1,1,0,2,Installed,Fuel oil,Antwerp
@@ -1943,15 +1949,15 @@ house,pÂturages,7340,10661914,130000.0,"Rue de l'Eglise, 1",3,E,379.0,0,0,0,210
 villa,haasrode,3053,10661911,798000.0,"Culostraat, 44",4,NS,0.0,0,0,0,915,62,3,2023,As new,0,2,0,0,0,Hyper equipped,0,Flemish Brabant
 flat-studio,saint-gilles,1060,10661908,145000.0,Rue Washington 128b,0,G,455.0,1,0,0,0,0,2,0,Good,0,0,1,0,1,Installed,Gas,Brussels Capital Region
 apartment,asse,1730,10661902,42.0,Meyskensstraat 222,3,B,132.0,0,0,0,0,55,2,1996,Good,0,1,0,0,2,Installed,Gas,
-penthouse,sint-laureins,9980,10661898,15000.0,Brugse Steenweg 170,3,NS,0.0,0,0,12,0,48,0,0,Good,0,2,0,0,1,0,Gas,East Flanders
+penthouse,sint-laureins,9980,10661898,15.0,Brugse Steenweg 170,3,NS,0.0,0,0,12,0,48,0,0,Good,0,2,0,0,1,0,Gas,East Flanders
 house,brugge,8000,10661896,349000.0,Brugse Steenweg 170,3,B,133.0,0,1,0,150,30,0,0,Good,0,1,0,0,1,0,Gas,West Flanders
-apartment,sint-laureins,9980,10661895,15000.0,Brugse Steenweg 170,1,NS,0.0,0,0,8,0,31,0,0,Good,0,1,0,0,1,0,Gas,East Flanders
+apartment,sint-laureins,9980,10661895,15.0,Brugse Steenweg 170,1,NS,0.0,0,0,8,0,31,0,0,Good,0,1,0,0,1,0,Gas,East Flanders
 apartment,fleron,4620,10661894,455000.0,Boulevard d'Avroy 19,4,B,103.0,1,0,0,0,54,0,2014,As new,0,4,0,0,3,Installed,0,Liège
 house,wijnegem,2110,10661893,359000.0,Korte Nieuwstraat 16,3,B,195.0,0,0,0,175,0,2,1935,Good,0,1,1,0,2,Installed,0,Antwerp
-apartment,sint-laureins,9980,10661891,15000.0,Brugse Steenweg 170,1,NS,0.0,0,0,8,0,30,0,0,Good,0,1,0,0,1,0,Gas,East Flanders
+apartment,sint-laureins,9980,10661891,15.0,Brugse Steenweg 170,1,NS,0.0,0,0,8,0,30,0,0,Good,0,1,0,0,1,0,Gas,East Flanders
 house,mouscron,7700,10661890,174900.0,4 rue du Luxembourg,4,C,186.0,0,0,20,0,0,0,0,As new,0,2,0,0,2,0,0,Hainaut (West)
 house,blankenberge,8370,10661888,349000.0,Brugse Steenweg 170,4,B,139.0,0,1,0,50,70,0,0,Just renovated,0,3,0,0,3,0,Gas,West Flanders
-apartment,sint-laureins,9980,10661886,15000.0,Brugse Steenweg 170,1,NS,0.0,0,0,8,0,30,0,0,Good,0,1,0,0,1,0,Gas,East Flanders
+apartment,sint-laureins,9980,10661886,15.0,Brugse Steenweg 170,1,NS,0.0,0,0,8,0,30,0,0,Good,0,1,0,0,1,0,Gas,East Flanders
 apartment,mouscron,7700,10661884,174900.0,4 rue du Luxembourg,4,C,186.0,0,0,20,0,0,0,0,As new,0,2,0,0,2,0,0,Hainaut (West)
 apartment-block,sint-genesius-rode,1640,10661878,1495000.0,Alsembergsesteenweg 660,6,NS,0.0,0,0,0,1184,0,3,1930,Good,0,2,0,0,0,Not installed,Gas,Flemish Brabant
 mixed-use-building,sint-genesius-rode,1640,10661872,1495000.0,Alsembergsesteenweg 660,6,NS,0.0,0,0,0,1184,0,3,1930,Good,0,2,0,0,0,Not installed,Gas,Flemish Brabant
@@ -1979,7 +1985,7 @@ house,moorsele,8560,10661821,175000.0,Vanackerestraat 2,3,NS,0.0,0,1,0,590,0,0,0
 house,kozen,3850,10606437,669000.0,Sint-Laurentuisstraat 50D,5,B,121.0,0,0,0,9540,0,4,2008,0,0,2,0,0,3,Hyper equipped,0,Limburg
 house,liège,4020,10661818,259000.0,Chemin du Carmel 6B,2,F,457.0,0,0,25,300,25,3,0,Just renovated,0,1,0,0,1,Semi equipped,Gas,Liège
 new-real-estate-project-apartments,leuven,3000,10661265,395000.0,Albert Devuestraat 6,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Flemish Brabant
-ground-floor,etterbeek,1040,10661809,195000.0,Av. Reine Astrid 280/5,1,G,561.0,1,0,0,0,10,2,1947,As new,0,1,1,0,1,USA hyper equipped,Gas,Brussels Capital Region
+ground-floor,etterbeek,1040,10661809,195.0,Av. Reine Astrid 280/5,1,G,561.0,1,0,0,0,10,2,1947,As new,0,1,1,0,1,USA hyper equipped,Gas,Brussels Capital Region
 house,seraing,4100,10552511,90000.0,Rue des Fories 2,2,F,498.0,0,0,12,160,0,2,0,To renovate,0,1,0,0,1,0,Wood,Liège
 apartment,berchem,2600,10661807,275000.0,Sint Goriksplein 8/11,2,C,251.0,0,1,0,0,0,0,0,Good,0,0,0,0,1,Semi equipped,Fuel oil,Antwerp
 villa,theux,4910,10661806,595000.0,"Avenue du chêne, 177",4,C,182.0,0,0,120,1200,55,4,2006,Good,0,1,0,0,2,Installed,Fuel oil,Liège
@@ -2024,8 +2030,8 @@ villa,waregem,8790,10661696,695000.0,"Roterijstraat, 202",3,E,487.0,0,1,0,1500,0
 villa,de pinte,9840,10661695,365000.0,"Roterijstraat, 202",3,F,576.0,0,0,0,866,0,4,1971,0,0,1,0,0,1,Semi equipped,Gas,East Flanders
 exceptional-property,gent,9000,10661691,548000.0,Dampoortstraat 41,3,E,447.0,0,0,49,127,19,2,0,Good,0,1,0,0,2,Installed,Gas,East Flanders
 house,beloeil,7970,10661673,115000.0,101 rue de Valenciennes,1,NS,0.0,0,0,0,450,0,3,0,To renovate,0,0,0,0,0,0,0,Hainaut (West)
-ground-floor,brugge,8000,10661662,27500.0,Adegem-dorp 49/001,2,NS,0.0,0,0,7,0,0,0,0,0,0,1,0,0,2,0,0,West Flanders
-ground-floor,brugge,8000,10661661,45000.0,Adegem-dorp 49/001,3,NS,0.0,0,0,7,0,0,0,0,0,0,1,0,0,2,0,0,West Flanders
+ground-floor,brugge,8000,10661662,27.0,Adegem-dorp 49/001,2,NS,0.0,0,0,7,0,0,0,0,0,0,1,0,0,2,0,0,West Flanders
+ground-floor,brugge,8000,10661661,45.0,Adegem-dorp 49/001,3,NS,0.0,0,0,7,0,0,0,0,0,0,1,0,0,2,0,0,West Flanders
 penthouse,antwerp,2000,10661660,595000.0,Berkenlaan 44,2,NS,0.0,0,0,19,0,0,2,0,0,0,1,0,0,1,Installed,Gas,Antwerp
 apartment,oostende,8400,10661659,165000.0,Zeedijk 148,1,NS,0.0,1,0,2,0,0,2,0,Good,0,1,0,0,1,0,0,West Flanders
 country-cottage,hasselt,3510,10661655,464900.0,Diestersteenweg 196,2,NS,0.0,0,1,0,601,22,4,1963,As new,0,2,0,0,2,Installed,0,Limburg
@@ -2082,7 +2088,7 @@ house,villers-le-peuplier,4280,10661490,405500.0,Rue de Malvoisin 38,3,NS,0.0,0,
 apartment,neder-over-heembeek,1120,10661488,149000.0,Chaussée de Helmet  239,1,F,325.0,0,1,0,0,17,2,1978,0,0,1,0,0,1,Installed,Gas,Brussels Capital Region
 villa,vielsalm,6690,10661486,285000.0,Rue Simon 46/2,4,F,468.0,0,0,0,1112,40,4,1965,To be done up,0,1,1,0,1,0,Fuel oil,Luxembourg (shared with Eastern Hainaut)
 house,tienen,3300,10661485,275000.0,Hoogstraat 2 bus 1,3,D,399.0,0,1,0,734,0,3,0,Good,0,0,0,0,2,Installed,Gas,Flemish Brabant
-country-cottage,berlare,9290,10661484,425000.0,Dorp 41,4,C,232.0,0,0,0,1406,34,4,1963,0,0,2,0,1,0,0,Gas,East Flanders
+country-cottage,berlare,9290,10661484,425.0,Dorp 41,4,C,232.0,0,0,0,1406,34,4,1963,0,0,2,0,1,0,0,Gas,East Flanders
 apartment,bruxelles,1000,10661482,1537000.0,Chaussée de Waterloo 1382,2,B,75.0,0,0,91,0,0,0,2018,As new,0,2,0,0,3,0,Gas,Brussels Capital Region
 villa,anderlues,6150,10661477,350000.0,rue de bomerée 134,3,F,491.0,0,0,40,1300,46,4,0,0,0,1,0,1,0,Installed,0,Luxembourg (shared with Eastern Hainaut)
 house,erpent,5101,10661470,325000.0,Avenue du Gouverneur Bovesse 1,4,C,202.0,0,0,0,268,16,3,0,As new,0,2,0,0,2,Installed,0,Namur
@@ -2270,10 +2276,11 @@ house,wavre limal,1300,10660390,585000.0,Rue de Rixensart 77,3,C,208.0,0,0,39,16
 villa,lommel,3920,10660389,495000.0,Noord-Brabantlaan 3,3,B,187.0,0,0,50,734,38,4,2001,As new,0,1,8,0,2,Hyper equipped,Gas,Limburg
 house,turnhout,2300,10660388,319900.0,Noord-Brabantlaan 3,5,B,140.0,0,0,30,192,0,2,1961,As new,0,1,1,0,2,Hyper equipped,Gas,Antwerp
 apartment,oud-heverlee haasrode,3053,10660387,379000.0,Dirk Boutslaan 4,2,C,247.0,0,1,0,0,0,2,2007,Good,0,1,0,0,1,Installed,Gas,Flemish Brabant
+villa,hasselt,3510,10660386,675.0,Dirk Boutslaan 4,6,C,258.0,0,0,65,1980,50,4,1960,Just renovated,0,2,0,1,2,USA hyper equipped,Gas,Limburg
 house,oud-heverlee sint-joris-weert,3051,10660385,455000.0,Dirk Boutslaan 4,3,C,275.0,0,1,0,316,0,3,1961,Good,0,1,0,0,2,Installed,Fuel oil,Flemish Brabant
 penthouse,herent,3020,10660384,510000.0,Dirk Boutslaan 4,3,B,165.0,0,0,56,0,50,0,2007,As new,0,1,0,1,2,Installed,Gas,Flemish Brabant
 apartment,la louvière,7100,10660382,185000.0,Rue de Mons 63,3,A,84.0,0,0,0,0,0,3,0,As new,0,1,0,0,0,0,0,Hainaut (West)
-ground-floor,turnhout,2300,10660381,1133.0,Vrijheid 8,3,B,187.0,1,1,0,0,34,3,2002,Good,0,1,0,0,1,Hyper equipped,Gas,Antwerp
+ground-floor,turnhout,2300,10660381,1.0,Vrijheid 8,3,B,187.0,1,1,0,0,34,3,2002,Good,0,1,0,0,1,Hyper equipped,Gas,Antwerp
 duplex,brasschaat,2930,10660380,375000.0,Dr. Roosensplein 47,3,C,263.0,0,0,0,0,37,2,1988,Good,0,1,0,1,2,0,Gas,Antwerp
 villa,brasschaat,2930,10660379,1195000.0,Dr. Roosensplein 47,5,B,180.0,0,1,0,2216,62,4,1954,As new,0,3,0,1,3,USA hyper equipped,Gas,Antwerp
 villa,ham,3945,10660378,429500.0,Kolmen 28,4,F,692.0,0,0,0,1472,45,4,1969,Good,0,1,0,0,2,Installed,Fuel oil,Limburg
@@ -2326,6 +2333,15 @@ apartment,gent,9000,10660286,400000.0,Sint-Denijslaan 1,3,NS,0.0,0,0,27,0,26,4,2
 ground-floor,gent,9000,10660285,355000.0,Sint-Denijslaan 1,3,NS,0.0,0,0,13,0,28,4,2025,As new,0,2,0,0,2,USA hyper equipped,0,East Flanders
 apartment,gent,9000,10660284,320000.0,Sint-Denijslaan 1,2,NS,0.0,0,0,15,0,35,4,2025,As new,0,1,0,0,1,USA hyper equipped,0,East Flanders
 new-real-estate-project-apartments,gent,9000,10660273,435000.0,Sint-Denijslaan 1,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
+service-flat,gent,9000,10660272,9.0,Sint-Denijslaan 1,1,NS,0.0,0,0,5,0,44,4,2022,0,0,1,0,0,1,USA installed,Gas,East Flanders
+service-flat,gent,9000,10660271,9.0,Sint-Denijslaan 1,1,NS,0.0,0,0,5,0,44,4,2022,0,0,1,0,0,1,USA installed,Gas,East Flanders
+service-flat,gent,9000,10660270,9.0,Sint-Denijslaan 1,1,NS,0.0,0,0,5,0,44,4,2022,0,0,1,0,0,1,USA installed,Gas,East Flanders
+service-flat,gent,9000,10660269,9.0,Sint-Denijslaan 1,1,NS,0.0,0,0,5,0,44,4,2022,0,0,1,0,0,1,USA installed,Gas,East Flanders
+service-flat,gent,9000,10660268,9.0,Sint-Denijslaan 1,1,NS,0.0,0,0,5,0,44,4,2022,0,0,1,0,0,1,USA installed,Gas,East Flanders
+service-flat,gent,9000,10660267,9.0,Sint-Denijslaan 1,1,NS,0.0,0,0,5,0,44,4,2022,0,0,1,0,0,1,USA installed,Gas,East Flanders
+service-flat,gent,9000,10660266,9.0,Sint-Denijslaan 1,1,NS,0.0,0,0,5,0,44,4,2022,0,0,1,0,0,1,USA installed,Gas,East Flanders
+service-flat,gent,9000,10660265,9.0,Sint-Denijslaan 1,1,NS,0.0,0,0,5,0,44,4,2022,0,0,1,0,0,1,USA installed,Gas,East Flanders
+new-real-estate-project-apartments,gent,9000,10660254,9.0,Sint-Denijslaan 1,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
 ground-floor,destelbergen,9070,10660253,339150.0,Sint-Denijslaan 1,2,NS,0.0,0,0,0,0,38,2,0,As new,0,1,0,0,2,USA hyper equipped,Gas,East Flanders
 ground-floor,destelbergen,9070,10660252,363800.0,Sint-Denijslaan 1,2,NS,0.0,0,0,0,0,26,2,0,As new,0,1,0,0,1,USA hyper equipped,Gas,East Flanders
 duplex,destelbergen,9070,10660251,451250.0,Sint-Denijslaan 1,3,NS,0.0,0,0,13,0,30,2,0,As new,0,1,0,0,2,USA hyper equipped,Gas,East Flanders
@@ -2412,7 +2428,7 @@ villa,aywaille,4920,10660061,399990.0,Avenue Louis Libert 1,3,NS,0.0,0,1,0,2281,
 house,aywaille,4920,10660060,219000.0,Avenue Louis Libert 1,2,E,412.0,0,1,0,134,41,2,0,Good,0,1,0,0,0,Installed,Fuel oil,Liège
 apartment,durbuy,6941,10660059,145000.0,Avenue Louis Libert 1,1,C,210.0,0,1,0,0,27,0,0,Good,0,1,0,0,0,0,Pellet,Luxembourg (shared with Eastern Hainaut)
 apartment,antwerp,2600,10660058,169000.0,Goedehoopstraat 21,1,F,1092.0,0,0,2,0,33,2,0,0,0,1,0,0,0,0,0,Antwerp
-apartment,antwerp,2660,10660057,20000.0,Goedehoopstraat 21,2,C,222.0,0,0,2,0,0,3,0,Good,0,1,0,0,1,0,Gas,Antwerp
+apartment,antwerp,2660,10660057,20.0,Goedehoopstraat 21,2,C,222.0,0,0,2,0,0,3,0,Good,0,1,0,0,1,0,Gas,Antwerp
 apartment,antwerp,2100,10660056,229000.0,Goedehoopstraat 21,2,C,289.0,0,0,3,0,0,2,1954,0,0,1,0,0,1,0,Gas,Antwerp
 exceptional-property,uccle,1180,10660054,1195000.0,Chaussée de Waterloo 1382,4,D,197.0,0,0,25,1563,55,4,1984,As new,0,2,2,1,3,Hyper equipped,0,Brussels Capital Region
 apartment,uccle,1180,10660049,280000.0,"Av. de Tervueren, 37",2,G,419.0,0,0,4,0,0,2,1965,To renovate,0,1,0,0,1,Semi equipped,Gas,Brussels Capital Region
@@ -2512,7 +2528,7 @@ house,mechelen,2800,10659846,310000.0,Mechelbaan 445,4,C,266.0,0,0,0,250,0,0,0,A
 apartment,berlaar,2590,10659845,199000.0,Mechelbaan 445,2,F,532.0,0,1,0,0,0,0,1957,0,0,1,0,1,1,Hyper equipped,Gas,Antwerp
 house,putte,2580,10659844,645000.0,Mechelbaan 445,3,NS,0.0,0,1,0,720,0,0,2023,0,0,1,0,0,2,Hyper equipped,0,Antwerp
 apartment,mechelen,2800,10659843,215000.0,Mechelbaan 445,2,C,217.0,0,1,0,0,0,0,1949,As new,0,1,0,0,0,Hyper equipped,Gas,Antwerp
-apartment,putte,2580,10659840,15000.0,Mechelbaan 445,2,A,50.0,0,1,0,0,0,0,2021,0,0,1,0,0,1,Hyper equipped,Gas,Antwerp
+apartment,putte,2580,10659840,15.0,Mechelbaan 445,2,A,50.0,0,1,0,0,0,0,2021,0,0,1,0,0,1,Hyper equipped,Gas,Antwerp
 house,genk,3600,10659838,340000.0,Lanklaansesteenweg 21,3,F,543.0,0,0,0,1167,0,0,1977,To be done up,0,1,0,0,2,0,0,Limburg
 apartment,oostende,8400,10659835,165900.0,Karel Janssenslaan 1,1,F,576.0,1,0,0,0,23,0,1981,To be done up,0,1,0,0,0,0,Electric,West Flanders
 house,willebroek,2830,10569559,299000.0,Overwinningsstraat 87,4,C,227.0,0,0,0,326,22,0,1899,As new,0,1,0,0,2,Installed,Gas,Antwerp
@@ -2534,6 +2550,7 @@ apartment-block,knesselare,9910,10659786,4235000.0,Kapellestraat 80,0,NS,0.0,0,0
 house,antwerp,2060,10659784,275000.0,Van Breestraat 3,4,D,378.0,0,0,0,94,0,0,0,0,0,2,0,0,0,0,Gas,Antwerp
 house,harelbeke,8530,10659783,169000.0,Voorstraat 8,3,E,495.0,0,0,45,160,33,3,0,To be done up,0,1,1,0,1,Installed,Gas,West Flanders
 apartment,aalter,9880,10659782,308100.0,Laurent Delvauxstraat 2,3,A,45.0,0,0,18,0,0,0,0,0,0,2,0,0,1,0,0,East Flanders
+apartment,harelbeke,8530,10659781,22.0,Gentsesteenweg 24,2,C,243.0,0,1,0,0,0,0,1997,As new,0,1,0,0,1,USA installed,Gas,West Flanders
 villa,bornem,2880,10659780,649000.0,Frans Van Haelenstraat 4b,3,E,486.0,0,0,0,2061,42,0,1966,To renovate,0,1,0,0,1,Installed,0,Antwerp
 house,meulebeke,8760,10659770,195000.0,Brugsesteenweg 43,3,F,630.0,0,0,0,247,15,0,0,To be done up,0,1,0,0,1,Installed,0,West Flanders
 house,zelzate,9060,10659762,345000.0,Godshuisstraat 1,3,A,89.0,0,1,0,187,0,0,2011,As new,0,0,0,1,2,0,Gas,East Flanders
@@ -2543,6 +2560,7 @@ house,kapellen,2950,10659759,279000.0,Turnhoutsebaan 175,2,F,830.0,0,0,0,349,0,0
 apartment,boechout,2530,10659757,245000.0,Turnhoutsebaan 175,2,B,120.0,0,0,10,0,0,0,1977,0,0,1,0,0,0,Installed,Gas,Antwerp
 apartment,deurne,2100,10659755,157500.0,"Britselei,  24",1,D,310.0,0,0,0,0,0,0,1955,0,0,1,0,0,0,0,0,Antwerp
 villa,asse,1730,10659751,635000.0,Erembodegemstraat 9,3,D,318.0,0,0,20,2491,40,4,1992,Good,0,1,1,0,2,Installed,Fuel oil,
+apartment,berendrecht,2040,10659749,127.0,Dorpsstraat 11,2,B,190.0,0,0,16,0,0,0,1999,As new,0,1,0,0,1,Installed,Gas,Antwerp
 villa,waremme,4300,10659748,350000.0,Rue de Tirlemont 23,3,F,462.0,0,0,9,1161,35,4,1987,Good,0,1,1,1,2,Installed,Electric,Liège
 house,ninove,9400,10629307,285000.0,Brakelsesteenweg 269,3,D,363.0,0,0,0,0,0,3,0,Just renovated,0,1,0,0,2,0,0,East Flanders
 house,markegem,8720,10294439,199000.0,Wakkensteenweg 67,3,F,658.0,0,0,0,430,0,0,0,To renovate,0,1,0,0,0,Installed,Fuel oil,West Flanders
@@ -2595,7 +2613,7 @@ house,drieslinter,3350,10659639,195000.0,Hoegaardsestraat 114,2,NS,0.0,0,0,0,593
 house,rekem,3621,10659638,395000.0,Stationsstraat 109,4,B,168.0,0,0,0,531,0,3,1956,Good,0,2,0,0,2,Installed,Gas,Limburg
 villa,vroenhoven,3770,10659637,669000.0,Stationsstraat 109,3,B,148.0,0,0,0,0,0,4,2003,As new,0,1,0,0,2,Installed,Gas,Limburg
 apartment,roeselare,8800,10659635,145000.0,Elisabethlaan 21/23,2,B,129.0,0,0,0,0,0,2,1974,Good,0,1,0,0,1,Installed,Gas,West Flanders
-loft,merchtem,1785,10659632,25000.0,Meyskensstraat 222,2,B,193.0,0,0,80,0,0,2,2009,Good,0,1,0,0,1,0,Gas,Flemish Brabant
+loft,merchtem,1785,10659632,25.0,Meyskensstraat 222,2,B,193.0,0,0,80,0,0,2,2009,Good,0,1,0,0,1,0,Gas,Flemish Brabant
 apartment,oostende,8400,10659631,255000.0,Van Iseghemlaan 59,2,B,196.0,0,0,0,0,0,0,1968,0,0,0,0,0,0,0,0,West Flanders
 apartment,deerlijk,8540,10659622,259000.0,Nieuwpoortstraat 14,1,NS,0.0,0,1,0,0,0,0,2014,As new,0,1,0,0,1,0,Gas,West Flanders
 apartment,nieuwpoort,8620,10659616,266000.0,Albert I Laan 234,1,C,250.0,0,0,0,0,0,0,1973,Just renovated,0,1,0,0,0,Hyper equipped,Electric,West Flanders
@@ -2610,6 +2628,7 @@ house,deinze,9800,10488756,355000.0,Brusselsesteenweg 690,6,NS,0.0,0,0,0,424,38,
 house,hofstade,9308,10659603,329000.0,Keizersplein 21,3,B,126.0,0,1,0,240,0,0,0,Just renovated,0,1,0,1,2,Installed,Gas,East Flanders
 house,oudegem,9200,10659601,399000.0,Keizersplein 21,3,NS,0.0,0,1,0,297,0,0,1962,Just renovated,0,1,0,1,2,Installed,Gas,East Flanders
 house,gent,9000,10659600,661.0,Keizersplein 21,3,F,598.0,0,0,0,90,0,0,0,To be done up,0,1,0,0,0,Semi equipped,Gas,East Flanders
+apartment,koksijde,8670,10659599,35000.0,Zeelaan 212,2,C,208.0,0,1,0,0,0,0,2005,As new,0,1,0,0,1,0,Gas,West Flanders
 house,beveren,9120,10659596,585000.0,Kasteelstraat 198,5,B,127.0,0,1,0,1070,0,0,1989,As new,0,2,0,0,1,0,Gas,East Flanders
 flat-studio,de haan,8420,10659595,139950.0,"Stationstraat, 33",1,D,336.0,1,1,0,0,0,0,1998,As new,0,1,0,0,1,Installed,Electric,West Flanders
 duplex,cholargos,155%2061,10659579,300000.0,Rue de Wynants 9,3,NS,0.0,0,1,0,0,0,0,0,Good,0,2,0,0,0,0,Fuel oil,
@@ -2873,8 +2892,8 @@ apartment,antwerpen deurne,2100,10658998,145000.0,Korte Nieuwstraat 16,2,B,186.0
 house,pont-à-celles,6230,10658996,150000.0,Place Communale 18,2,G,733.0,0,0,15,330,0,2,1960,To renovate,0,1,1,0,1,Not installed,Fuel oil,Luxembourg (shared with Eastern Hainaut)
 apartment,herentals,2200,10658993,420000.0,Grote Markt 10,3,NS,0.0,0,0,15,0,0,2,2023,0,0,2,0,0,1,Installed,0,Antwerp
 house,nivelles,1400,10658992,490000.0,Rue de Namur 93,6,C,217.0,0,0,0,350,0,2,1895,To be done up,0,2,0,0,1,Not installed,Gas,Walloon Brabant
-house,wanze,4520,10658991,33900000.0,Avenue du Condroz 1/0,4,F,178.0,0,0,0,1521,13,4,0,0,0,2,0,0,0,0,Gas,Liège
-apartment,aalst,9320,10658982,30000.0,Parklaan 187,2,A,60.0,0,0,11,0,35,0,0,As new,0,0,0,0,1,Hyper equipped,Gas,East Flanders
+house,wanze,4520,10658991,339000.0,Avenue du Condroz 1/0,4,F,178.0,0,0,0,1521,13,4,0,0,0,2,0,0,0,0,Gas,Liège
+apartment,aalst,9320,10658982,30.0,Parklaan 187,2,A,60.0,0,0,11,0,35,0,0,As new,0,0,0,0,1,Hyper equipped,Gas,East Flanders
 villa,kortrijk,8500,10658981,775000.0,Doorniksewijk 41,6,C,285.0,0,1,0,1000,55,0,0,Good,0,0,0,0,3,Installed,Gas,West Flanders
 apartment,ixelles,1050,10658977,875000.0,Avenue Louise 404a,3,F,330.0,0,0,0,0,50,0,0,As new,0,3,0,0,3,USA installed,Gas,Brussels Capital Region
 flat-studio,ixelles,1050,10658975,275000.0,Avenue Louise 433,0,E,268.0,0,0,4,0,28,2,1961,As new,0,1,1,0,1,0,Gas,Brussels Capital Region
@@ -2991,7 +3010,7 @@ apartment-block,jodoigne,1370,10658609,450000.0,Rue du Bosquet 29,0,NS,0.0,0,0,0
 house,jodoigne,1370,10658607,155000.0,Rue du Bosquet 29,3,F,503.0,0,1,0,480,38,2,0,To renovate,0,1,0,0,1,0,Fuel oil,Walloon Brabant
 villa,nandrin,4550,10658606,825000.0,Rue de Plainevaux 149/1,2,A+,30.0,0,0,35,1442,68,4,2021,As new,0,2,1,0,2,USA hyper equipped,0,Liège
 apartment,auderghem,1160,10658600,259000.0,Avenue de Woluwe-Saint-Lambert 35,2,D,204.0,0,0,0,0,17,2,0,0,0,1,0,0,1,0,0,Brussels Capital Region
-house,retie,2470,10658586,1311.0,Bredabaan 260,3,B,122.0,0,0,0,1574,59,4,1995,As new,0,1,0,0,2,Installed,Gas,Antwerp
+house,retie,2470,10658586,1.0,Bredabaan 260,3,B,122.0,0,0,0,1574,59,4,1995,As new,0,1,0,0,2,Installed,Gas,Antwerp
 villa,kortenberg,3070,10658585,970000.0,Leuvensesteenweg 417,5,C,300.0,0,0,70,1810,60,4,1986,Good,0,2,0,1,3,Installed,Gas,Flemish Brabant
 house,florenville,6820,10658584,270000.0,"20, Rue d'Arlon",4,F,493.0,0,0,0,1006,0,4,0,0,0,0,0,0,0,0,0,Luxembourg (shared with Eastern Hainaut)
 house,saint-georges-sur-meuse,4470,10658583,175000.0,Avenuedes Ardennes 7d,2,E,379.0,0,0,0,337,26,2,1954,Good,0,2,0,0,2,Installed,Fuel oil,Liège
@@ -3340,7 +3359,7 @@ house,heist-op-den-berg,2220,10657698,475000.0,Dorpsstraat 34 Bus 1,2,B,109.0,0,
 house,booischot,2221,10657697,369000.0,Dorpsstraat 34 Bus 1,3,F,556.0,0,0,0,999,0,0,1992,0,0,0,0,0,0,0,0,Antwerp
 house,begijnendijk,3130,10657696,295000.0,Dorpsstraat 34 Bus 1,2,F,1156.0,0,0,0,2208,0,0,0,0,0,0,0,0,0,0,0,Flemish Brabant
 house,lierneux,4990,10404956,335000.0,Route de l'Eau Rouge 2c,3,F,502.0,0,0,21,1090,0,0,0,0,0,1,0,0,0,Installed,Fuel oil,Liège
-apartment,knokke-heist,8300,10657693,50000.0,Kustlaan 105,3,B,107.0,0,1,0,0,0,2,1973,Good,0,2,2,0,2,USA hyper equipped,Gas,West Flanders
+apartment,knokke-heist,8300,10657693,50.0,Kustlaan 105,3,B,107.0,0,1,0,0,0,2,1973,Good,0,2,2,0,2,USA hyper equipped,Gas,West Flanders
 apartment,knokke-heist,8300,10657692,475000.0,Kustlaan 105,1,A,85.0,0,0,0,0,0,2,1968,Good,0,1,1,0,1,USA semi equipped,Gas,West Flanders
 house,heusden-zolder,3550,10657689,349000.0,Kempische Steenweg 398,3,B,145.0,0,0,28,170,0,2,0,Good,0,1,0,0,0,0,Gas,Limburg
 flat-studio,genk,3600,10657687,122500.0,Kempische Steenweg 398,0,C,227.0,0,0,0,0,0,2,1968,Good,0,1,0,0,0,0,Gas,Limburg
@@ -3446,7 +3465,7 @@ house,mol,2400,10650670,258000.0,Grote Markt 67/4 (eerste verdieping),4,NS,0.0,0
 villa,roeselare,8800,10657292,530000.0,Jan Bouckaertstraat 20,5,C,284.0,0,0,0,838,0,0,0,0,0,1,0,1,0,0,0,West Flanders
 house,lier,2500,10657291,390000.0,Dorpsstraat 34 Bus 1,3,B,197.0,0,0,0,299,0,0,1971,As new,0,1,0,0,0,0,0,Antwerp
 house,brasschaat,2930,10657289,599000.0,Bredabaan 133,5,NS,0.0,0,1,0,348,0,0,2023,0,0,2,0,1,2,Installed,Gas,Antwerp
-apartment,brasschaat,2930,10657287,25000.0,Bredabaan 133,2,C,287.0,0,1,0,0,0,0,1978,Good,0,1,0,0,1,Installed,Gas,Antwerp
+apartment,brasschaat,2930,10657287,25.0,Bredabaan 133,2,C,287.0,0,1,0,0,0,0,1978,Good,0,1,0,0,1,Installed,Gas,Antwerp
 ground-floor,merksem,2170,10657286,209000.0,Bredabaan 133,2,C,282.0,0,0,0,0,0,0,1972,Good,0,1,0,0,1,Installed,Gas,Antwerp
 new-real-estate-project-houses,ruddervoorde,8020,10657280,526250.0,Vlamingstraat 62,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 ground-floor,boom,2850,10657279,275000.0,Grote Markt 16,2,A,59.16,0,0,10,0,0,2,2016,Good,0,1,0,0,1,Installed,Electric,Antwerp
@@ -3472,7 +3491,7 @@ villa,villers-la-ville,1495,10657244,389000.0,Rue de Charleroi 31/7,4,B,130.0,0,
 house,waterloo,1410,10657241,345000.0,Rue François Libert 39,3,E,405.0,0,0,20,324,30,2,1953,To renovate,0,1,0,0,1,0,Gas,Walloon Brabant
 house,knesselare,9910,10657238,225000.0,Wingene Steenweg 35,3,F,1143.0,0,0,0,1389,0,0,0,0,0,1,0,0,0,0,Fuel oil,East Flanders
 apartment,koksijde,8670,10657237,360000.0,Zeelaan 212,2,D,313.0,1,1,0,0,0,0,1991,To be done up,0,1,0,0,1,0,Electric,West Flanders
-apartment,knokke-heist,8300,10657235,45000.0,Koningslaan 252 B,3,A,99.0,1,1,0,0,0,2,1977,As new,0,2,2,0,2,0,Gas,West Flanders
+apartment,knokke-heist,8300,10657235,45.0,Koningslaan 252 B,3,A,99.0,1,1,0,0,0,2,1977,As new,0,2,2,0,2,0,Gas,West Flanders
 house,torhout,8820,10657233,279000.0,Elisabethlaan 21/23,3,C,246.0,0,0,0,285,0,0,0,Good,0,1,1,0,2,Installed,Gas,West Flanders
 house,koningshooikt,2500,10657229,450000.0,Hallaarstraat 17/2,3,NS,0.0,0,0,0,398,0,3,0,Just renovated,0,2,0,0,2,Installed,Gas,Antwerp
 house,schriek,2223,10657228,529000.0,Hallaarstraat 17/2,3,NS,0.0,0,0,0,0,50,3,2024,As new,0,2,0,1,2,Installed,0,Antwerp
@@ -3487,7 +3506,7 @@ house,goetsenhoven,3300,10657212,345000.0,Dirk Boutslaan 4,2,C,261.0,0,0,10,500,
 bungalow,tienen,3300,10657211,398000.0,Dirk Boutslaan 4,4,D,393.0,0,1,0,878,34,4,1978,Good,0,1,0,0,2,0,Fuel oil,Flemish Brabant
 mixed-use-building,laeken,1020,10657210,370000.0,Rue d'Alost 7,4,NS,0.0,0,0,0,65,0,2,1930,Good,0,4,0,0,0,0,Gas,Brussels Capital Region
 house,herent,3020,10657209,418000.0,Dirk Boutslaan 4,4,B,165.0,0,1,0,215,14,2,0,Just renovated,0,1,0,0,2,Installed,Gas,Flemish Brabant
-new-real-estate-project-houses,otegem,8553,10657205,34487193.0,Burg Gillonlaan 115,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
+new-real-estate-project-houses,otegem,8553,10657205,344.0,Burg Gillonlaan 115,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 house,aalst erembodegem,9320,10657193,319000.0,Brusselbaan 110,3,C,294.0,0,0,35,372,30,3,1958,To be done up,0,1,0,0,0,Installed,Fuel oil,East Flanders
 house,aalst,9300,10657192,319000.0,Brusselbaan 110,3,C,294.0,0,0,35,372,30,3,1958,To be done up,0,1,0,0,0,Installed,Fuel oil,East Flanders
 house,beringen,3580,10657190,395000.0,Kempische Steenweg 398,2,C,223.0,0,1,0,771,0,4,2002,Good,0,1,0,0,0,0,Fuel oil,Limburg
@@ -3505,8 +3524,8 @@ house,heist-op-den-berg,2220,10657153,340000.0,Theofiel De Biestraat 11,3,F,512.
 house,deurne,2100,10657150,299000.0,Bischoppenhoflaan 284,3,A,95.0,0,0,0,113,28,2,0,Just renovated,0,1,1,0,2,Semi equipped,Gas,Antwerp
 villa,tournai,7500,10156467,690000.0,Bd Delwart 11,5,D,270.0,0,1,0,3501,0,4,1985,0,0,3,0,0,0,0,Gas,Hainaut (West)
 house,crisnée,4367,10321179,149000.0,Grand rue 191,2,G,732.0,0,0,16,90,18,3,1900,To renovate,0,1,1,0,1,Not installed,Pellet,Liège
-house,aalst,9300,10657138,295000.0,Oudenaardsesteenweg 441,4,NS,0.0,0,1,0,410,0,3,2022,0,0,1,0,0,0,0,0,East Flanders
-house,aalst,9308,10657137,299000.0,Oudenaardsesteenweg 441,4,NS,0.0,0,1,0,410,0,3,2022,0,0,1,0,0,0,0,0,East Flanders
+house,aalst,9300,10657138,295.0,Oudenaardsesteenweg 441,4,NS,0.0,0,1,0,410,0,3,2022,0,0,1,0,0,0,0,0,East Flanders
+house,aalst,9308,10657137,299.0,Oudenaardsesteenweg 441,4,NS,0.0,0,1,0,410,0,3,2022,0,0,1,0,0,0,0,0,East Flanders
 house,la louviere,7100,10657136,145000.0,Rue du Moulin 2,3,D,287.0,0,1,0,0,24,2,0,0,0,1,0,0,0,USA installed,0,Hainaut (West)
 house,charleroi jumet,6040,10657133,159000.0,Chaussée de Lodelinsart 115,5,E,408.0,0,1,0,144,0,3,0,To be done up,0,1,0,0,0,Semi equipped,Gas,Luxembourg (shared with Eastern Hainaut)
 house,gent,9050,10581026,395000.0,Dublinstraat 37 Bus 118,3,E,446.0,0,0,0,154,24,0,1874,0,0,1,0,0,2,0,0,East Flanders
@@ -3527,7 +3546,7 @@ villa,knokke-heist,8300,10657076,4275000.0,Albert plein 10,4,B,110.0,0,1,0,372,0
 apartment,libramont-chevigny,6800,10657073,159000.0,Route de Marche 143,2,C,254.0,0,0,0,0,0,3,2010,0,0,1,0,0,0,0,Electric,Luxembourg (shared with Eastern Hainaut)
 house,herselt,2230,10657070,410000.0,Markt 20,4,C,260.0,0,1,0,1638,0,4,2003,Good,0,1,0,0,0,Installed,Fuel oil,Antwerp
 house,westerlo,2260,10657069,319000.0,Markt 20,3,F,747.0,0,0,0,1181,45,4,1976,To renovate,0,1,0,0,1,0,Fuel oil,Antwerp
-apartment,merksem,2170,10657059,25000.0,"Bredabaan, 896",2,B,192.0,0,0,3,0,0,3,1976,To be done up,0,1,0,0,1,Installed,0,Antwerp
+apartment,merksem,2170,10657059,25.0,"Bredabaan, 896",2,B,192.0,0,0,3,0,0,3,1976,To be done up,0,1,0,0,1,Installed,0,Antwerp
 villa,fize-fontaine,4530,10655962,298000.0,Avenue du Condroz 1/0,0,D,262.0,0,0,0,1205,0,4,1998,Good,0,0,0,0,0,0,Fuel oil,Liège
 house,gent,9050,10657057,315000.0,Burchtdam 1/1,4,C,214.0,0,0,6,0,27,2,0,Good,0,1,0,0,2,Installed,Gas,East Flanders
 penthouse,pelt,3910,10657046,275000.0,Kapittelhof 22,2,B,128.0,0,1,0,0,0,2,2010,Good,0,1,0,0,0,0,Gas,Limburg
@@ -3557,7 +3576,7 @@ house,oud-heverlee sint-joris-weert,3051,10656968,389000.0,Dorpsstraat 57,3,C,26
 apartment,wilrijk,2610,10555744,289000.0,Prins Boudewijnlaaan 318,3,B,194.0,0,0,2,0,0,3,1962,Good,0,1,0,0,0,0,Gas,Antwerp
 house,heverlee,3001,10656962,559000.0,Geldenaaksebaan 176 C,3,B,182.0,0,0,0,495,0,2,1899,Just renovated,0,1,0,0,2,Installed,Gas,Flemish Brabant
 apartment,uccle,1180,10656957,40000.0,rue alphonse renard 56,3,NS,0.0,0,0,6,0,56,2,1964,Just renovated,0,2,1,0,2,Hyper equipped,Gas,Brussels Capital Region
-villa,zwevegem,8550,10656954,47500.0,Vierkeerstraat 2 bus 2,3,NS,0.0,0,0,0,1197,34,4,1971,Good,0,1,0,0,1,0,Fuel oil,West Flanders
+villa,zwevegem,8550,10656954,475.0,Vierkeerstraat 2 bus 2,3,NS,0.0,0,0,0,1197,34,4,1971,Good,0,1,0,0,1,0,Fuel oil,West Flanders
 duplex,bruxelles,1020,10656951,259000.0,.,3,G,715.0,0,0,0,0,0,2,1920,To be done up,0,2,2,0,2,Installed,Gas,Brussels Capital Region
 penthouse,de panne,8660,10261033,645000.0,Kapellelaan 9 - Esplanade,3,B,160.0,0,0,125,0,0,0,1981,Good,0,2,0,0,1,0,Gas,West Flanders
 house,frameries,7080,10248783,189000.0,Place du Marché 11,3,NS,0.0,0,0,0,0,0,2,0,0,0,1,0,1,1,0,0,Hainaut (West)
@@ -3818,13 +3837,13 @@ apartment,knokke-heist,8300,10656338,720000.0,Albert plein 10,2,A,98.0,1,1,0,0,0
 villa,mechelen,2800,10656337,745000.0,Brusselsesteenweg 6,3,C,230.0,0,1,0,1054,50,4,1951,0,0,3,0,1,2,Hyper equipped,Gas,Antwerp
 mixed-use-building,antwerpen hoboken,2660,10550637,339900.0,"Mechelsesteenweg,157",2,D,349.0,0,1,0,303,28,2,0,Good,0,1,0,0,0,Installed,Gas,Antwerp
 house,fontaine-l'eveque,6140,10656334,175000.0,Route de Gozée 651/1,4,E,384.0,0,0,60,170,0,2,0,Good,0,1,0,0,1,Installed,Gas,Luxembourg (shared with Eastern Hainaut)
-apartment-block,sint-laureins,9980,10656329,15000.0,Monnikeredestraat 11,0,NS,0.0,0,0,8,99,0,2,2022,0,0,0,0,0,0,Hyper equipped,0,East Flanders
+apartment-block,sint-laureins,9980,10656329,15.0,Monnikeredestraat 11,0,NS,0.0,0,0,8,99,0,2,2022,0,0,0,0,0,0,Hyper equipped,0,East Flanders
 house,woluwe-saint-pierre,1150,10656328,725000.0,"Val des Seigneurs, 9a",4,D,205.0,0,0,0,120,47,2,1932,As new,0,2,0,1,2,USA hyper equipped,Gas,Brussels Capital Region
-apartment,sint-laureins,9980,10656327,15000.0,Monnikeredestraat 11,3,NS,0.0,0,0,12,0,0,2,2022,0,0,2,0,0,0,Hyper equipped,Gas,East Flanders
+apartment,sint-laureins,9980,10656327,15.0,Monnikeredestraat 11,3,NS,0.0,0,0,12,0,0,2,2022,0,0,2,0,0,0,Hyper equipped,Gas,East Flanders
 villa,turnhout,2300,10656325,485000.0,Grote Markt 22,3,D,367.0,0,1,0,1440,0,4,1982,0,0,1,0,0,2,0,Gas,Antwerp
 chalet,ravels poppel,2382,10656324,185000.0,Grote Markt 22,4,C,295.0,0,1,0,270,0,4,1980,0,0,1,0,0,0,0,Gas,Antwerp
-apartment,antwerp,2050,10656323,17500.0,Frederik Van Eedenplein 8,2,C,207.0,0,0,7,0,0,2,1969,0,0,1,0,0,1,0,Gas,Antwerp
-apartment,antwerp,2050,10656322,17500.0,Frederik Van Eedenplein 8,2,C,217.0,0,0,7,0,0,2,1969,0,0,1,0,0,1,0,Gas,Antwerp
+apartment,antwerp,2050,10656323,17.0,Frederik Van Eedenplein 8,2,C,207.0,0,0,7,0,0,2,1969,0,0,1,0,0,1,0,Gas,Antwerp
+apartment,antwerp,2050,10656322,17.0,Frederik Van Eedenplein 8,2,C,217.0,0,0,7,0,0,2,1969,0,0,1,0,0,1,0,Gas,Antwerp
 house,beersel alsemberg,1652,10656318,410000.0,Chaussée d Alsemberg 256,3,NS,0.0,0,1,0,0,48,2,0,As new,0,2,1,0,2,USA hyper equipped,0,
 apartment,liege,4000,10656316,230000.0,Boulevard d'Avroy 19,2,D,339.0,0,0,0,0,26,2,0,Good,0,1,0,0,1,Not installed,0,Liège
 house,aalst nieuwerkerken,9320,10588314,285000.0,"Capucienenlaan, 1",3,C,211.0,0,0,22,120,24,2,0,Just renovated,0,1,0,0,2,USA hyper equipped,Gas,East Flanders
@@ -3843,7 +3862,7 @@ apartment,antwerp,2140,10656293,165000.0,Goedehoopstraat 21,2,C,247.0,0,0,0,0,23
 apartment,forest,1190,10656291,540000.0,"Av. de Tervueren, 37",2,G,452.0,0,0,9,0,0,2,1930,To renovate,0,1,0,0,1,0,Fuel oil,Brussels Capital Region
 house,seraing boncelles,4100,10656290,261500.0,Route du Condroz 72,3,B,96.0,0,0,15,112,0,2,2022,0,0,1,0,0,2,0,Gas,Liège
 apartment,beyne-heusay,4610,10656254,159000.0,Voie de L'air Pur 211,2,F,445.0,0,1,0,0,37,0,0,Just renovated,0,1,1,0,1,Semi equipped,Electric,Liège
-apartment,chaudfontaine embourg,4053,10656252,56344.0,Voie de L'air Pur 211,1,F,496.0,0,0,20,0,20,2,1973,Good,0,1,0,0,1,Installed,Gas,Liège
+apartment,chaudfontaine embourg,4053,10656252,563.0,Voie de L'air Pur 211,1,F,496.0,0,0,20,0,20,2,1973,Good,0,1,0,0,1,Installed,Gas,Liège
 apartment,gent,9000,10656249,399000.0,Baron de Gieylaan 18,3,D,304.0,0,1,0,0,0,2,0,As new,0,1,0,0,0,Hyper equipped,0,East Flanders
 house,tongeren,3700,10656240,304384.0,Eikenenweg 73/1,3,NS,0.0,0,1,0,182,0,2,0,As new,0,1,0,0,0,0,0,Limburg
 house,tongeren,3700,10656238,318558.0,Eikenenweg 73/1,3,NS,0.0,0,1,0,233,0,2,0,As new,0,1,0,0,0,0,0,Limburg
@@ -3867,6 +3886,7 @@ house,brugge,8000,10656204,429000.0,Jeruzalemstraat 33,4,E,405.0,0,1,0,0,0,2,0,G
 house,brugge,8000,10656203,269000.0,Jeruzalemstraat 33,2,F,576.0,0,1,0,52,0,3,0,Good,0,1,0,0,1,0,Gas,West Flanders
 mixed-use-building,trooz,4870,10656202,229000.0,Grand rue 191,3,G,747.0,0,0,25,140,35,2,1909,To renovate,0,1,0,0,2,Not installed,Fuel oil,Liège
 house,roosdaal,1760,10656197,437806.0,"Kerkstraat, 38",3,A,55.54,0,1,0,269,0,3,0,0,0,1,0,0,2,Hyper equipped,0,Flemish Brabant
+apartment,woluwe-saint-pierre,1150,10656196,267.0,Avenue Baron Albert d'Huart 130,2,G,510.0,0,0,7,0,28,2,1958,Just renovated,0,1,1,0,1,Hyper equipped,Gas,Brussels Capital Region
 house,woluwe-saint-pierre,1150,10656195,2490000.0,Avenue Baron Albert d'Huart 130,5,F,342.0,0,1,0,1350,65,4,1923,As new,0,3,1,0,4,Hyper equipped,Gas,Brussels Capital Region
 apartment,anderlecht,1070,10656191,219000.0,Chaussée de Gand 331,2,NS,0.0,0,0,7,0,35,2,1995,Good,0,1,1,0,1,Installed,Electric,Brussels Capital Region
 duplex,liège rocourt,4000,10656189,270000.0,Rue Bonne Fortune 9,2,NS,0.0,0,0,8,0,0,2,2023,As new,0,1,0,0,1,Installed,0,Liège
@@ -3997,7 +4017,7 @@ service-flat,oostduinkerke,8670,10655920,275000.0,"Astridlaan , 7",1,A,61.0,0,1,
 apartment,merelbeke,9820,10655918,295000.0,Dokter Honore Dewolfstraat 23,2,E,435.0,0,1,0,0,60,3,1995,As new,0,1,0,0,1,0,0,East Flanders
 house,zottegem,9620,10655916,417792.0,Hoogstraat 55,3,NS,0.0,0,0,0,377,36,0,2023,0,0,1,0,0,2,0,0,East Flanders
 house,oudenaarde,9700,10655914,339000.0,Dokter Honore Dewolfstraat 23,2,B,188.0,0,1,0,222,40,3,0,As new,0,1,0,1,2,0,Gas,East Flanders
-apartment,koksijde,8670,10528510,20000.0,Lejeunelaan 2,1,C,265.0,1,0,0,0,0,0,0,Good,0,1,0,0,0,0,0,West Flanders
+apartment,koksijde,8670,10528510,20.0,Lejeunelaan 2,1,C,265.0,1,0,0,0,0,0,0,Good,0,1,0,0,0,0,0,West Flanders
 apartment,koksijde,8670,10655912,460000.0,Lejeunelaan 2,3,D,346.0,0,1,0,0,0,0,0,To renovate,0,1,0,0,1,0,0,West Flanders
 house,roeselare,8800,10655910,245000.0,Stationstraat 4/1,3,D,309.0,0,0,13,65,10,0,0,0,0,1,0,0,1,Installed,Gas,West Flanders
 apartment,bornem,2880,10655908,288000.0,Kasteelstraat 198,1,NS,0.0,0,1,0,0,0,0,2017,0,0,1,0,0,1,0,0,Antwerp
@@ -4066,6 +4086,7 @@ duplex,knokke,8300,10655695,495000.0,Natiënlaan 199,2,NS,0.0,0,0,31,0,0,2,2023,
 house,sint-laureins,9980,10655692,465000.0,Zomerlaan 1,5,C,244.0,0,0,0,856,0,4,1985,Good,0,1,0,0,0,Installed,Gas,East Flanders
 house,veldegem,8210,10655690,329000.0,Marktstraat 20 b1,3,F,921.0,0,1,0,1950,35,4,1960,0,0,0,0,0,0,Installed,Gas,West Flanders
 house,zedelgem,8211,10655689,249000.0,Marktstraat 20 b1,3,F,862.0,0,0,0,400,32,4,1950,0,0,1,0,0,1,0,Gas,West Flanders
+house,oudenaarde,9700,10655687,235.0,"Heuleplaats, 16",3,D,394.0,0,0,0,184,0,2,0,Good,0,1,0,0,1,Installed,0,East Flanders
 house,izegem,8870,10655686,139000.0,"Heuleplaats, 16",2,F,511.0,0,0,0,124,0,2,0,0,0,0,0,0,0,0,0,West Flanders
 apartment,louvain-la-neuve,1348,10655685,389000.0,Rue du Bosquet 3,2,A++,0.0,0,0,8,0,1,0,2020,0,0,1,0,0,1,Installed,Fuel oil,Walloon Brabant
 apartment,louvain-la-neuve,1348,10655683,389000.0,Rue du Bosquet 3,2,A,0.0,0,0,5,0,1,0,2020,0,0,1,0,0,1,Installed,Fuel oil,Walloon Brabant
@@ -4077,7 +4098,7 @@ house,opglabbeek,3660,10655677,549000.0,Aarschotsesteenweg 201,4,F,652.0,0,0,0,1
 apartment,borgerhout,2140,10655674,349000.0,Italiëlei 207,2,B,169.0,0,1,0,0,0,2,1970,As new,0,2,0,0,1,Installed,Gas,Antwerp
 house,tessenderlo,3980,10655673,265000.0,Lichtveld 88,3,F,657.0,0,0,0,818,37,3,1964,Good,0,1,0,0,1,Semi equipped,Fuel oil,Limburg
 apartment,borgerhout,2140,10655672,224000.0,Italiëlei 207,2,B,117.0,0,0,0,0,0,2,1974,Good,0,1,0,0,0,Semi equipped,Gas,Antwerp
-apartment,borgerhout,2140,10655670,30000.0,Italiëlei 207,3,B,119.0,0,0,8,0,0,3,1972,To be done up,0,1,0,0,1,Semi equipped,Fuel oil,Antwerp
+apartment,borgerhout,2140,10655670,30.0,Italiëlei 207,3,B,119.0,0,0,8,0,0,3,1972,To be done up,0,1,0,0,1,Semi equipped,Fuel oil,Antwerp
 apartment,mechelen,2800,10655667,299000.0,Oscar Van Kesbeeckstraat 7,2,B,162.0,0,1,0,0,0,2,1756,To renovate,0,1,0,0,1,USA installed,Gas,Antwerp
 villa,brasschaat,2930,10655666,1660000.0,Bredabaan 260,4,B,183.0,0,1,0,4085,0,4,1993,As new,0,2,0,0,0,Installed,Gas,Antwerp
 mansion,brasschaat,2930,10655665,895000.0,Bredabaan 260,4,D,370.0,0,1,0,1650,0,4,1908,As new,0,2,0,0,0,Installed,Gas,Antwerp
@@ -4101,7 +4122,7 @@ apartment,wilrijk,2610,10655622,235000.0,Prins Boudewijnlaaan 318,3,B,196.0,0,0,
 apartment,ekeren,2180,10655616,249000.0,Kloosterstraat 89-93,2,D,310.0,0,0,3,0,0,2,1967,Good,0,1,0,0,1,0,Gas,Antwerp
 house,wijnegem,2110,10655613,525000.0,Bischoppenhoflaan 284,4,B,132.0,0,0,0,500,37,3,0,Just renovated,0,1,1,0,2,Installed,Gas,Antwerp
 house,kaprijke,9970,10655612,224500.0,Gravenstraat 30A,2,NS,0.0,0,1,0,360,0,2,0,To renovate,0,1,0,0,1,0,Gas,East Flanders
-house,heers,3870,10655610,14500.0,Tiensesteenweg 227/101,2,B,182.0,0,0,0,0,0,3,1900,Just renovated,0,1,0,0,0,Installed,Gas,Limburg
+house,heers,3870,10655610,14.0,Tiensesteenweg 227/101,2,B,182.0,0,0,0,0,0,3,1900,Just renovated,0,1,0,0,0,Installed,Gas,Limburg
 apartment,chÊnee,4032,10655609,139000.0,Grand’Route 548,2,C,237.0,0,0,0,0,25,2,0,To be done up,0,1,0,0,1,Semi equipped,Gas,Liège
 villa,rumst,2840,10655608,699000.0,Amsterdamstraat 15 bus202,4,B,119.0,0,0,70,268,0,3,2003,Good,0,2,0,1,3,Installed,Gas,Antwerp
 exceptional-property,woluwe-saint-pierre,1150,10655605,2490000.0,Avenue Legrand 30,5,F,342.0,0,1,0,1350,65,4,0,Good,0,3,0,1,0,Hyper equipped,Gas,Brussels Capital Region
@@ -4253,7 +4274,7 @@ villa,kapellen,2950,10655214,1445000.0,De Hulsten 159,0,NS,0.0,0,0,0,6293,0,4,20
 apartment,antwerp,2050,10655213,210000.0,Frankrijlei 156/158,1,B,129.0,0,0,5,0,0,2,1969,Good,0,1,0,0,1,Installed,Gas,Antwerp
 chalet,durbuy,6940,10655211,63000.0,Tour & Taxis - Havenlaan 86c 106c,1,NS,0.0,0,0,0,0,0,4,0,To renovate,0,1,0,0,0,Not installed,0,Luxembourg (shared with Eastern Hainaut)
 chalet,durbuy,6940,10655210,75000.0,Tour & Taxis - Havenlaan 86c 106c,2,NS,0.0,0,0,0,0,0,4,0,To renovate,0,1,0,0,0,Not installed,0,Luxembourg (shared with Eastern Hainaut)
-chalet,durbuy,6940,10655209,2253.0,Tour & Taxis - Havenlaan 86c 106c,1,NS,0.0,0,0,0,0,0,4,0,To renovate,0,1,0,0,0,Not installed,0,Luxembourg (shared with Eastern Hainaut)
+chalet,durbuy,6940,10655209,2.0,Tour & Taxis - Havenlaan 86c 106c,1,NS,0.0,0,0,0,0,0,4,0,To renovate,0,1,0,0,0,Not installed,0,Luxembourg (shared with Eastern Hainaut)
 chalet,durbuy,6940,10655207,87000.0,Tour & Taxis - Havenlaan 86c 106c,2,NS,0.0,0,0,0,0,0,4,0,To renovate,0,1,0,0,0,Not installed,0,Luxembourg (shared with Eastern Hainaut)
 apartment,courcelles,6180,10655206,210000.0,Rue de Malvoisin 38,2,B,0.0,0,0,0,0,0,0,2022,As new,0,0,0,0,1,Installed,Gas,Luxembourg (shared with Eastern Hainaut)
 house,mons,7000,10655203,79000.0,Avenue d'Hyon 1,2,NS,0.0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,Hainaut (West)
@@ -4287,7 +4308,7 @@ country-cottage,arquennes,7181,10655138,650000.0,Rue de Saintes 11/3,5,F,474.0,0
 apartment,bruxelles,1000,10655137,660000.0,Rue du Vieux-Mayeur 51,2,B,86.0,0,0,0,0,30,0,0,As new,0,0,2,0,2,Hyper equipped,Gas,Brussels Capital Region
 apartment,tenneville,6970,10655135,225000.0,Chaussée de Liège 76,2,A,85.0,0,0,6,0,0,3,2023,0,0,1,0,0,0,0,Gas,Luxembourg (shared with Eastern Hainaut)
 villa,evergem,9940,10655134,550000.0,Damstraat 131 bus1,4,E,405.0,0,1,0,1269,0,4,1965,0,0,1,0,0,0,Installed,Gas,East Flanders
-apartment,mariakerke,9030,10655133,235000.0,Damstraat 131 bus1,2,B,131.0,0,0,1,0,0,2,1967,0,0,1,0,0,0,Semi equipped,Gas,East Flanders
+apartment,mariakerke,9030,10655133,235.0,Damstraat 131 bus1,2,B,131.0,0,0,1,0,0,2,1967,0,0,1,0,0,0,Semi equipped,Gas,East Flanders
 apartment-block,liège,4020,10655131,545000.0,Rue Charles Magnette 24/40,7,E,389.0,0,0,0,0,0,3,0,0,0,0,4,0,6,Not installed,0,Liège
 house,liège,4020,10655130,545000.0,Rue Charles Magnette 24/40,7,E,389.0,0,0,0,0,0,3,0,0,0,0,4,0,6,Not installed,0,Liège
 house,verviers,4800,10334315,119000.0,"Place Hubert Delrez, 8/6",5,D,272.0,0,0,6,65,21,2,0,To renovate,0,1,1,1,2,Not installed,Gas,Liège
@@ -4440,7 +4461,7 @@ apartment,knokke,8300,10654832,795000.0,Dumortierlaan 89,2,B,125.0,0,0,0,0,0,2,2
 apartment,knokke,8300,10654831,795000.0,Dumortierlaan 89,3,C,215.0,0,0,0,0,0,2,1971,0,0,2,0,0,0,0,0,West Flanders
 apartment,knokke-heist,8300,10654830,795000.0,Dumortierlaan 89,2,B,173.0,0,0,0,0,0,2,2005,0,0,2,0,0,0,0,0,West Flanders
 house,mechelen,2800,10654829,190000.0,Dorp 35,3,F,606.0,0,0,0,79,39,2,1930,Good,0,1,0,0,1,0,Electric,Antwerp
-apartment,mechelen,2800,10654828,340000.0,Dorp 35,1,B,116.0,0,0,0,0,0,0,2008,Good,0,1,0,0,1,0,Gas,Antwerp
+apartment,mechelen,2800,10654828,340.0,Dorp 35,1,B,116.0,0,0,0,0,0,0,2008,Good,0,1,0,0,1,0,Gas,Antwerp
 apartment,knokke-heist,8300,10654827,795000.0,Dumortierlaan 89,2,B,105.0,0,0,0,0,0,2,0,0,0,2,0,0,1,0,0,West Flanders
 apartment,knokke,8300,10654825,799000.0,Dumortierlaan 89,3,NS,0.0,0,0,0,0,0,2,1991,0,0,2,0,0,2,0,Gas,West Flanders
 apartment,knokke,8300,10654824,770000.0,Dumortierlaan 89,3,NS,0.0,0,0,0,0,0,2,1968,0,0,1,0,0,0,0,Gas,West Flanders
@@ -4498,7 +4519,7 @@ mansion,laeken,1020,10654691,475000.0,Av. Houba de Strooper 618,4,NS,0.0,0,0,20,
 house,heusden-zolder,3550,10642213,329000.0,Kerkstraat 3,3,D,336.0,0,0,0,1039,37,4,1972,Good,0,1,0,0,2,Semi equipped,Fuel oil,Limburg
 house,sint-niklaas,9100,10654688,175000.0,Parklaan 59 bus1,2,C,214.0,0,0,0,43,0,2,1918,0,0,1,0,0,1,Installed,Gas,East Flanders
 house,drongen,9031,10654687,850000.0,"Kortrijksesteenweg, 390 bus 001",4,B,198.0,0,0,0,1213,0,4,1995,Good,0,1,0,0,2,Not installed,Gas,East Flanders
-house,hechtel-eksel,3940,10654685,363615.0,Kerkhovensesteenweg 447,3,NS,0.0,0,0,0,220,38,2,2022,0,0,1,0,0,2,0,Electric,Limburg
+house,hechtel-eksel,3940,10654685,363.0,Kerkhovensesteenweg 447,3,NS,0.0,0,0,0,220,38,2,2022,0,0,1,0,0,2,0,Electric,Limburg
 house,ville-en-hesbaye,4260,10654683,390000.0,Rue Albert Ier 105,4,D,309.0,0,0,47,1913,25,0,0,0,0,0,1,0,0,Installed,Fuel oil,Liège
 house,rumst,2840,10654681,225000.0,Paalstraat 70,3,E,479.0,0,0,0,0,0,2,0,Good,0,1,0,0,1,Installed,Gas,Antwerp
 house,miécret,5376,10654680,695000.0,Chaussée de Marche 398,3,C,250.0,0,0,0,12185,0,2,0,Good,0,1,1,0,0,Installed,Fuel oil,Namur
@@ -4545,6 +4566,7 @@ apartment,merksem (antwerpen),2170,10654600,199000.0,Lambrechtshoekenlaan 169,2,
 bungalow,aalter,9910,10654591,478000.0,Stationstraat 25,3,F,765.0,0,0,40,1539,48,4,0,To renovate,0,1,0,0,2,0,0,East Flanders
 house,laarne,9270,10654590,475000.0,Heusdendorp 7,2,D,351.0,0,0,80,1356,18,3,1946,Good,0,1,1,0,3,Installed,Gas,East Flanders
 apartment,soignies,7060,10654588,244000.0,Rue de Mons 63,3,C,216.0,0,1,0,0,0,0,0,Good,0,2,0,0,0,0,0,Hainaut (West)
+apartment,bruxelles 12,1120,10654587,25.0,"Rue Pierre Timmermans, 23",2,G,364.0,0,0,19,0,26,2,1969,0,0,0,1,0,1,Installed,Gas,Brussels Capital Region
 apartment,namur,5000,10654583,165000.0,Avenue du Bourgmestre Jean Materne 96/1,1,B,159.0,0,0,0,0,0,2,0,As new,0,1,1,0,1,Installed,Gas,Namur
 apartment,merksem,2170,10654582,155000.0,Lambrechtshoekenlaan 169,2,D,345.0,0,0,1,0,26,2,1975,To be done up,0,1,0,0,0,0,Gas,Antwerp
 apartment,waterloo,1410,10654581,550000.0,Avenue Louise 480,3,B,93.0,0,0,11,0,0,2,2023,0,0,2,1,0,1,Installed,0,Walloon Brabant
@@ -4604,6 +4626,7 @@ apartment,evere,1140,10654463,310000.0,Chaussée de Waterloo 1382,1,B,74.0,1,0,5
 farmhouse,polleur,4910,10654462,525000.0,"Avenue Hanlet, 2",5,B,125.0,0,0,86,5860,40,4,0,Good,0,3,2,1,3,Semi equipped,Fuel oil,Liège
 mansion,liege 1,4000,10654461,419500.0,Avenue Franklin Roosevelt 22A,7,E,414.0,0,0,23,112,35,2,0,0,0,2,1,0,3,Installed,Gas,Liège
 house,tamines,5060,10654456,248000.0,Avenue Paul pastur 380,3,F,501.0,0,0,30,555,39,3,0,0,0,1,1,0,2,Semi equipped,Fuel oil,Namur
+apartment,antwerpen,2018,10654454,40.0,Ruggeveldbaan 751,2,NS,0.0,0,0,0,0,0,3,2019,Good,0,1,0,0,0,0,Gas,Antwerp
 house,brugge,8000,10654445,845000.0,"Fort Zevenbergen, 49",5,F,559.0,0,0,20,170,0,2,0,Good,0,2,1,1,4,0,Gas,West Flanders
 apartment,deurne,2100,10654444,249000.0,Ruggeveldbaan 751,3,D,311.0,0,1,0,0,0,2,1979,Good,0,1,0,0,0,0,Gas,Antwerp
 exceptional-property,enghien,7850,10654440,1395000.0,Rue Seutin 2,6,B,143.0,0,0,100,2857,0,4,2008,As new,0,3,3,1,4,Hyper equipped,Fuel oil,Hainaut (West)
@@ -4661,14 +4684,15 @@ apartment,knokke-heist,8300,10654310,1395000.0,"Koningslaan, 131",3,A,92.0,0,0,1
 house,herselt,2230,10654305,250000.0,Pas 96/A,2,F,708.0,0,1,0,1087,0,4,1960,Good,0,1,0,0,0,Hyper equipped,Fuel oil,Antwerp
 house,veerle,2431,10395770,285000.0,Pas 96/A,2,F,580.0,0,1,0,548,0,4,1968,To be done up,0,1,0,0,1,Installed,Fuel oil,Antwerp
 house,stavelot francorchamps,4970,10651426,349000.0,"Avenue du chêne, 177",3,C,214.0,0,0,28,951,25,4,2000,Good,0,1,0,1,2,0,Fuel oil,Liège
-house,fayt-lez-manage,7170,10654302,104999.0,"4, Place Sabatier",2,E,411.0,0,1,0,320,23,2,1900,To renovate,0,1,1,0,1,Not installed,Gas,Hainaut (West)
+house,fayt-lez-manage,7170,10654302,104.0,"4, Place Sabatier",2,E,411.0,0,1,0,320,23,2,1900,To renovate,0,1,1,0,1,Not installed,Gas,Hainaut (West)
 house,leernes,6142,10654301,69999.0,"4, Place Sabatier",2,G,715.0,0,0,0,140,17,2,1900,Good,0,1,1,0,1,Semi equipped,Pellet,Luxembourg (shared with Eastern Hainaut)
 house,la hestre,7170,10654300,129999.0,"4, Place Sabatier",2,F,459.0,0,1,0,199,12,3,1900,To be done up,0,1,1,1,1,Semi equipped,Gas,Hainaut (West)
 house,berlare,9290,10654291,349000.0,Markt 37,3,D,399.0,0,1,0,0,0,4,0,Good,0,1,1,0,0,Installed,Gas,East Flanders
 mansion,antwerp,2600,10654280,1350000.0,"Jordaenskaai, 21",5,C,285.0,0,1,0,386,0,2,0,0,0,2,0,0,0,0,0,Antwerp
 house,quievrain,7380,10654278,80000.0,rue de Valenciennes 42,3,G,945.0,0,0,0,155,13,3,1918,To renovate,0,1,1,0,1,USA installed,Gas,Hainaut (West)
 house,thuin,6530,10654275,230000.0,"Avenue Marie José, 59",3,E,380.0,0,0,0,4100,25,3,0,To be done up,0,1,0,1,2,Installed,Fuel oil,Luxembourg (shared with Eastern Hainaut)
-apartment,hoboken,2660,10654270,20000.0,Waalsekaai 32,2,B,135.0,0,0,8,0,34,3,2010,As new,0,1,0,0,1,Hyper equipped,Gas,Antwerp
+apartment,hoboken,2660,10654270,20.0,Waalsekaai 32,2,B,135.0,0,0,8,0,34,3,2010,As new,0,1,0,0,1,Hyper equipped,Gas,Antwerp
+apartment,deurne,2100,10654269,25.0,Waalsekaai 32,2,E,463.0,0,0,3,0,35,3,1967,To be done up,0,1,0,0,1,USA hyper equipped,Gas,Antwerp
 apartment,evere,1140,10654268,278000.0,Dorp 6,2,E,258.0,0,0,0,0,23,2,0,0,0,1,0,0,2,Installed,Fuel oil,Brussels Capital Region
 other-property,braine-l'alleud,1420,10654265,335000.0,Chaussée d'Alsemberg 967,1,NS,0.0,0,0,0,1109,0,4,0,To restore,0,0,0,0,0,0,0,Walloon Brabant
 apartment,heverlee,3001,10654264,249000.0,Interleuvenlaan 66,1,C,217.0,0,0,10,0,0,2,1965,Just renovated,0,1,0,0,0,0,0,Flemish Brabant
@@ -4676,7 +4700,7 @@ house,deurne,2100,10325768,299000.0,Langestraat 71,2,E,410.0,0,0,20,200,0,2,1955
 house,diest,3290,10654262,359000.0,Hasseltsestraat 17,3,D,364.0,0,0,30,216,0,3,1969,Good,0,1,0,0,1,Installed,Fuel oil,Flemish Brabant
 ground-floor,sint-truiden,3800,10654261,269000.0,"Stationstraat 2/017 (Hoek Tiensetraat, Molenstraat)",2,E,429.0,0,0,20,0,37,0,2005,Good,0,1,0,0,1,Installed,0,Limburg
 house,londerzeel,1840,10654260,339000.0,Valkebeekstraat 24,3,B,139.0,0,1,0,186,0,2,0,Good,0,1,0,0,2,Installed,Gas,Flemish Brabant
-penthouse,knokke-heist,8300,10654258,95000.0,Zoutelaan 53,4,B,121.0,0,0,39,0,72,2,2004,As new,0,3,3,1,3,USA hyper equipped,Gas,West Flanders
+penthouse,knokke-heist,8300,10654258,95.0,Zoutelaan 53,4,B,121.0,0,0,39,0,72,2,2004,As new,0,3,3,1,3,USA hyper equipped,Gas,West Flanders
 apartment,bruxelles,1130,10654256,209000.0,Chaussée de Haecht 1697,1,B,87.0,1,0,0,0,30,2,2017,As new,0,1,0,0,0,Not installed,Gas,Brussels Capital Region
 house,mechelen,2800,10654255,428000.0,Korenmarkt 55,3,B,134.0,0,0,30,90,20,2,1930,0,0,1,0,1,2,Hyper equipped,Gas,Antwerp
 house,bonheiden,2820,10654254,382000.0,Korenmarkt 55,3,F,668.0,0,1,0,545,41,3,1960,Good,0,1,0,0,2,Installed,Fuel oil,Antwerp
@@ -4777,7 +4801,7 @@ house,gesves haltinne,5340,10653980,350000.0,Rue de Ciney 168,6,NS,0.0,1,0,0,106
 town-house,anderlecht,1070,10653979,375000.0,"Avenue d'Itterbeek, 60",3,G,458.0,0,0,15,157,30,2,0,To be done up,0,1,1,0,1,Installed,Gas,Brussels Capital Region
 house,charleroi,6043,10653978,180000.0,Rue de la Croix 16,3,A+,1.0,0,1,0,0,41,2,2020,0,0,1,1,0,1,0,0,Luxembourg (shared with Eastern Hainaut)
 house,courcelles,6180,10653976,170000.0,Rue de la Croix 16,4,C,252.0,0,0,40,356,12,3,1900,As new,0,2,2,0,3,Installed,Gas,Luxembourg (shared with Eastern Hainaut)
-apartment,lummen,3560,10653974,36290830.0,Dorpsstraat 40,2,NS,0.0,0,0,12,0,16,0,0,0,0,1,0,0,0,0,0,Limburg
+apartment,lummen,3560,10653974,362.0,Dorpsstraat 40,2,NS,0.0,0,0,12,0,16,0,0,0,0,1,0,0,0,0,0,Limburg
 service-flat,wezembeek-oppem,1970,10575964,175000.0,"Av. du Prince de Ligne, 18",1,B,131.52,0,1,0,0,0,2,2016,As new,0,1,0,0,1,USA installed,Gas,Flemish Brabant
 house,achouffe,6666,10653972,302000.0,"RUE DU PURNALET, 8",4,A,67.0,0,1,0,366,0,3,2023,As new,0,2,0,0,0,Installed,Gas,Luxembourg (shared with Eastern Hainaut)
 house,la roche-en-ardenne,6980,10653971,139000.0,"RUE DU PURNALET, 8",4,E,405.0,0,1,0,160,0,2,0,To be done up,0,1,0,0,0,0,0,Luxembourg (shared with Eastern Hainaut)
@@ -4858,11 +4882,11 @@ house,stekene,9190,10653831,325000.0,"Dorpsstraat, 21",3,D,351.0,0,0,30,571,35,4
 house,bredene,8450,10653829,184800.0,Koning Albert 1 - laan 207,2,E,432.0,0,0,30,88,16,2,2001,Good,0,1,1,0,2,Installed,Electric,West Flanders
 new-real-estate-project-apartments,waterloo,1410,10653823,540000.0,Av. Reine Astrid 215,0,A+,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Walloon Brabant
 mansion,bruxelles,1000,10653822,2880.0,Avenue de Tervuren 113,6,G,400.0,0,0,24,242,0,2,1894,Good,0,3,2,1,4,Semi equipped,Gas,Brussels Capital Region
-house,uccle,1180,10653820,89293.0,Avenue Louis Lepoutre 109,2,E,254.0,0,0,14,160,22,2,1956,As new,0,2,2,0,2,USA hyper equipped,Gas,Brussels Capital Region
+house,uccle,1180,10653820,892.0,Avenue Louis Lepoutre 109,2,E,254.0,0,0,14,160,22,2,1956,As new,0,2,2,0,2,USA hyper equipped,Gas,Brussels Capital Region
 apartment,antwerp,2100,10653804,210000.0,Museumstraat 50,2,B,140.0,0,0,12,0,0,2,1976,Good,0,1,0,0,1,Installed,Gas,Antwerp
 apartment,mechelen,2800,10653803,559000.0,Korenmarkt 8,3,A,30.0,0,0,12,0,0,0,2023,0,0,1,0,0,0,0,Gas,Antwerp
 house,balegem,9860,10653801,299000.0,Langevelddreef 60,4,F,1150.0,0,0,0,418,0,0,1936,To renovate,0,1,0,0,0,Semi equipped,0,East Flanders
-house,gentbrugge,9050,10653796,149000.0,Alphonse Claeys-Bouüaertlaan 57/001,2,F,662.0,0,1,0,45,0,0,0,0,0,1,0,0,1,0,0,East Flanders
+house,gentbrugge,9050,10653796,149.0,Alphonse Claeys-Bouüaertlaan 57/001,2,F,662.0,0,1,0,45,0,0,0,0,0,1,0,0,1,0,0,East Flanders
 villa,sint-kruis,8310,10653794,600000.0,Scheepsdalelaan 31,4,E,414.0,0,0,0,1210,0,0,1961,As new,0,2,0,0,0,Installed,Gas,West Flanders
 country-cottage,bellegem,8510,10653792,1050000.0,Jan Palfijnstraat 1A,4,D,370.0,0,0,0,1952,0,0,0,Just renovated,0,0,0,0,0,0,0,West Flanders
 apartment,knokke,8300,10653789,635000.0,Lippenslaan 201,3,B,104.0,1,1,0,0,0,2,1980,Just renovated,0,2,2,0,1,Hyper equipped,Gas,West Flanders
@@ -4916,6 +4940,7 @@ apartment,oostende,8400,10551850,190000.0,Karel Janssenslaan 1,2,B,142.0,0,0,5,0
 house,saint-josse-ten-noode,1210,10653705,849000.0,Rue Royale 178,7,G,498.0,0,0,0,210,42,2,1920,To renovate,0,0,3,0,3,0,0,Brussels Capital Region
 apartment,de panne,8660,10547373,279000.0,Zeelaan 94,2,C,282.0,1,0,0,0,0,0,1992,0,0,1,0,0,1,0,Electric,West Flanders
 apartment,oostende,8400,10653695,175000.0,Karel Janssenslaan 1,1,B,181.0,0,0,0,0,0,0,1970,0,0,0,0,0,0,0,Fuel oil,West Flanders
+house,molenbeek-saint-jean,1080,10653691,200.0,Rue Royale 178,6,G,538.0,0,0,4,155,26,2,1941,Good,0,2,2,1,2,Hyper equipped,Fuel oil,Brussels Capital Region
 apartment,de panne,8660,10653688,99000.0,Zeelaan 94,2,NS,0.0,1,0,0,0,0,0,0,To renovate,0,1,0,0,0,0,0,West Flanders
 apartment,evere,1140,10653679,462000.0,De Kleetlaan 4,3,NS,0.0,0,0,22,0,38,0,2022,0,0,1,0,0,2,0,Gas,Brussels Capital Region
 exceptional-property,bruxelles,1050,10653678,4900000.0,Avenue Legrand 30,7,E,239.0,0,1,0,685,84,3,0,Good,0,4,0,1,0,Hyper equipped,Gas,Brussels Capital Region
@@ -5016,10 +5041,13 @@ villa,knesselare,9910,10653456,488000.0,Wingene Steenweg 35,4,E,484.0,0,0,0,1298
 house,maldegem,9990,10653455,349000.0,Wingene Steenweg 35,3,D,312.0,0,0,0,560,0,0,0,As new,0,1,0,1,0,0,Fuel oil,East Flanders
 house,oedelem,8730,10653454,315000.0,Wingene Steenweg 35,3,F,917.0,0,0,0,700,0,0,1950,0,0,0,0,0,0,0,Fuel oil,West Flanders
 house,brugge,8000,10653453,499000.0,Wingene Steenweg 35,4,B,163.0,0,0,0,304,0,0,0,As new,0,1,0,1,0,0,Gas,West Flanders
-apartment,aalst,9300,10653442,12000.0,Keizersplein 21,2,B,151.0,0,0,60,0,0,0,1996,As new,0,1,0,0,1,Installed,Gas,East Flanders
+apartment,aalst,9300,10653442,12.0,Keizersplein 21,2,B,151.0,0,0,60,0,0,0,1996,As new,0,1,0,0,1,Installed,Gas,East Flanders
 mansion,aalst,9300,10653439,369000.0,Keizersplein 21,3,B,183.0,0,0,0,120,0,0,1914,As new,0,2,0,1,2,Installed,0,East Flanders
 apartment,erembodegem,9320,10653433,349000.0,Keizersplein 21,3,D,310.0,0,0,0,0,0,0,0,As new,0,2,0,0,3,0,Gas,East Flanders
 house,kuurne,8520,10653359,195000.0,Markeplaats 9,3,E,423.0,0,0,0,240,0,0,1955,0,0,0,0,0,0,0,0,West Flanders
+new-real-estate-project-apartments,blankenberge,8370,10653335,253.0,Franchommelaan 82-86,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
+new-real-estate-project-apartments,blankenberge,8370,10653323,235.0,Franchommelaan 82-86,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
+new-real-estate-project-apartments,blankenberge,8370,10653318,233.0,Franchommelaan 82-86,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 apartment,blankenberge,8370,10653316,333500.0,Franchommelaan 82-86,2,NS,0.0,0,0,9,0,0,2,0,0,0,1,0,0,1,Installed,0,West Flanders
 apartment,blankenberge,8370,10653315,355750.0,Franchommelaan 82-86,2,NS,0.0,0,0,12,0,0,2,0,0,0,1,0,0,1,Installed,0,West Flanders
 apartment,blankenberge,8370,10653314,265750.0,Franchommelaan 82-86,1,NS,0.0,0,0,4,0,0,2,0,0,0,1,0,0,2,Installed,0,West Flanders
@@ -5147,8 +5175,8 @@ house,sint-truiden,3800,10381260,315000.0,"Stationstraat 2/017 (Hoek Tiensetraat
 house,zonhoven,3520,10653158,495000.0,Luikersteenweg 5,5,C,255.0,0,0,0,0,0,4,0,0,0,2,1,0,2,0,Gas,Limburg
 apartment,bilzen,3740,10653157,250000.0,Lievehereboomstraat 1,2,NS,0.0,0,0,0,0,0,0,2015,Good,0,1,0,0,1,Installed,Gas,Limburg
 town-house,deurne,2100,10521849,445000.0,Mortselsesteenweg 161,3,B,192.0,0,0,0,149,45,2,1973,As new,0,1,0,0,2,Installed,Gas,Antwerp
-apartment,mechelen,2800,10653148,265000.0,Dorp 35,2,B,113.0,0,0,0,0,0,2,1965,Good,0,0,0,0,0,0,Gas,Antwerp
-house,puurs-sint-amands,2870,10653147,299000.0,Dorp 35,4,B,184.0,0,0,0,119,27,2,1951,Good,0,1,0,0,2,0,Gas,Antwerp
+apartment,mechelen,2800,10653148,265.0,Dorp 35,2,B,113.0,0,0,0,0,0,2,1965,Good,0,0,0,0,0,0,Gas,Antwerp
+house,puurs-sint-amands,2870,10653147,299.0,Dorp 35,4,B,184.0,0,0,0,119,27,2,1951,Good,0,1,0,0,2,0,Gas,Antwerp
 house,malonne,5020,10653144,139000.0,.,2,G,551.0,0,0,0,258,0,2,0,To renovate,0,1,0,0,1,0,Fuel oil,Namur
 apartment,ciney,5590,10653143,189000.0,.,1,B,115.0,0,1,0,0,0,2,2015,As new,0,0,1,0,1,Installed,Gas,Namur
 apartment,gent,9000,10653141,249000.0,Gistelse Steenweg 212,2,B,149.0,0,0,0,0,0,3,1959,Good,0,1,1,0,1,Installed,Gas,East Flanders
@@ -5158,7 +5186,7 @@ mixed-use-building,hamme,9220,10653133,524000.0,Zuidlaan 2,4,C,293.0,0,1,0,663,0
 house,hamme,9220,10492451,549000.0,Zuidlaan 2,4,C,293.0,0,1,0,663,0,2,1956,Good,0,2,0,0,2,Installed,Gas,East Flanders
 house,sint-katelijne-waver,2860,10653131,385000.0,Mechelbaan 509,3,A,96.0,0,1,0,110,0,2,0,Good,0,1,0,0,2,Installed,0,Antwerp
 apartment,antwerp,2000,10653129,469500.0,Antwerpsestraat 292,2,C,261.0,0,0,0,0,0,2,1951,Just renovated,0,1,0,0,2,Installed,0,Antwerp
-apartment-block,anderlecht,1070,10653124,256572.0,Av. de la Belle Province 101,7,G,619.0,0,0,0,0,0,2,0,Good,0,3,0,0,3,Installed,Gas,Brussels Capital Region
+apartment-block,anderlecht,1070,10653124,2565.0,Av. de la Belle Province 101,7,G,619.0,0,0,0,0,0,2,0,Good,0,3,0,0,3,Installed,Gas,Brussels Capital Region
 house,braine-l'alleud,1420,10653123,285000.0,Av. de la Belle Province 101,3,F,468.0,0,1,0,267,47,3,0,To renovate,0,1,0,0,1,Installed,Fuel oil,Walloon Brabant
 apartment,mechelen,2800,10653120,259000.0,Oscar Van Kesbeeckstraat 7,3,E,466.0,0,0,0,0,0,2,1959,Good,0,1,0,0,2,Installed,Gas,Antwerp
 house,sint-job-in-'t-goor,2960,10653118,749000.0,Bredabaan 260,5,B,198.0,0,0,40,1186,0,4,1989,Good,0,2,0,0,3,0,Gas,Antwerp
@@ -5237,7 +5265,7 @@ house,forest,1190,10652907,980000.0,Rue Hector Denis 47A,5,E,233.0,0,1,0,0,0,2,1
 house,deurne,2100,10581269,295000.0,Boterlaarbaan 311,2,D,382.0,0,0,23,134,27,3,0,Good,0,1,0,0,1,Semi equipped,Gas,Antwerp
 apartment,evere,1140,10652905,299000.0,Chaussée d'Alsemberg 212,2,G,421.0,0,0,17,0,0,0,1976,Good,0,1,0,0,1,USA installed,Gas,Brussels Capital Region
 house,harelbeke,8530,10652902,369500.0,Burg Gillonlaan 115,3,B,150.0,0,1,0,249,0,3,0,Just renovated,0,1,0,0,2,Installed,Gas,West Flanders
-penthouse,kortrijk,8500,10652901,80500.0,Burg Gillonlaan 115,3,NS,0.0,0,1,0,0,0,0,0,0,0,2,0,0,3,Hyper equipped,Gas,West Flanders
+penthouse,kortrijk,8500,10652901,80.0,Burg Gillonlaan 115,3,NS,0.0,0,1,0,0,0,0,0,0,0,2,0,0,3,Hyper equipped,Gas,West Flanders
 flat-studio,louvain-la-neuve,1348,10652899,185000.0,chaussée de Wavre n°373,0,B,146.0,0,0,0,0,0,0,2012,Good,0,0,1,0,1,USA installed,Gas,Walloon Brabant
 house,woluwe-saint-lambert,1200,10652896,575000.0,Rue de Tervaete 35,2,F,300.0,0,0,0,275,63,2,1932,To renovate,0,1,0,0,2,Semi equipped,0,Brussels Capital Region
 apartment,antwerp,2000,10652894,349000.0,Museumstraat 50,3,B,160.0,0,0,2,0,0,0,0,Good,0,1,0,0,1,Installed,Fuel oil,Antwerp
@@ -5400,7 +5428,7 @@ house,uccle,1180,10652477,799000.0,Avenue Winston Churchill 192,4,NS,0.0,0,0,0,2
 house,merksem,2170,10652469,365000.0,Driesheide 99,3,C,258.0,0,0,10,176,0,2,1971,To be done up,0,2,0,0,2,USA installed,Gas,Antwerp
 house,geetbets,3450,10652468,150000.0,Kempische Steenweg 398,2,F,918.0,0,0,0,800,0,3,1950,To renovate,0,1,0,0,0,0,Fuel oil,Flemish Brabant
 house,arquennes,7181,10652451,495000.0,Rue de Saintes 11/3,4,G,629.0,0,1,0,3029,28,3,0,To renovate,0,2,0,1,0,Installed,Gas,Hainaut (West)
-apartment,brasschaat,2930,10652465,299900.0,"Bredabaan, 896",2,C,289.0,0,0,21,0,47,2,1957,Good,0,1,0,0,1,Semi equipped,Gas,Antwerp
+apartment,brasschaat,2930,10652465,299.0,"Bredabaan, 896",2,C,289.0,0,0,21,0,47,2,1957,Good,0,1,0,0,1,Semi equipped,Gas,Antwerp
 apartment,molenbeek-saint-jean,1080,10652464,249000.0,Av. Henri Conscience 74,2,C,130.0,0,0,21,0,31,0,0,Just renovated,0,1,1,0,1,0,Gas,Brussels Capital Region
 apartment,antwerp,2000,10287809,415000.0,"Bredabaan, 896",3,C,245.0,0,0,11,0,35,2,2006,Good,0,1,0,0,1,Semi equipped,Gas,Antwerp
 duplex,bruxelles,1020,10652463,246000.0,Av. Henri Conscience 74,2,G,782.0,0,0,39,0,27,0,0,Good,0,1,0,0,1,0,Gas,Brussels Capital Region
@@ -5478,7 +5506,7 @@ villa,blankenberge,8370,10652210,825000.0,Grote Markt 1,4,C,209.0,0,1,0,1380,56,
 house,liege,4020,10652208,299000.0,Rue Charles Magnette 24/40,3,E,386.0,0,0,0,0,0,0,0,As new,0,0,0,0,2,Not installed,0,Liège
 house,roeselare,8800,10652203,148000.0,Stationsstraat 18,3,F,670.0,0,1,0,218,0,2,0,To renovate,0,1,0,0,1,Semi equipped,Gas,West Flanders
 apartment,de haan,8420,10431477,79000.0,Stationstraat 16,1,F,1181.0,0,1,0,0,0,0,0,Good,0,0,0,0,1,Installed,Electric,West Flanders
-house,schaffen,3290,10652199,468500.0,Basilieklaan 77,3,NS,0.0,0,0,0,397,0,3,2023,0,0,1,0,0,2,Installed,0,Flemish Brabant
+house,schaffen,3290,10652199,468.0,Basilieklaan 77,3,NS,0.0,0,0,0,397,0,3,2023,0,0,1,0,0,2,Installed,0,Flemish Brabant
 house,rillaar,3202,10652197,165000.0,Basilieklaan 77,1,E,419.0,0,0,0,774,0,3,1959,To renovate,0,0,1,0,1,0,Gas,Flemish Brabant
 house,rillaar,3202,10652196,290000.0,Basilieklaan 77,4,F,538.0,0,0,0,774,0,4,1954,To be done up,0,1,0,0,1,Semi equipped,Gas,Flemish Brabant
 apartment,liège,4020,10652191,175000.0,Rue de la Cathédrale 17,1,B,10234.0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,Gas,Liège
@@ -5534,6 +5562,7 @@ apartment,aalst,9300,10652069,218990.0,Parklaan 63,1,NS,0.0,0,0,10,0,0,0,0,0,0,1
 house,gent,9000,10652067,600.0,Sluizeken 16,4,B,166.0,0,0,0,45,20,2,0,Good,0,1,0,0,2,Installed,Gas,East Flanders
 mixed-use-building,gent,9000,10652065,600.0,Sluizeken 16,4,B,166.0,0,0,0,45,20,2,0,Good,0,1,0,0,2,Installed,Gas,East Flanders
 house,mater,9700,10652063,450000.0,Tussenbruggen 9,3,A,53.0,0,0,0,512,0,3,2023,0,0,1,0,0,2,Installed,0,East Flanders
+house,antwerp,2018,10652061,309000.0,Rue du Vieux-Mayeur 51,2,F,917.0,0,0,0,32,17,0,0,Good,0,0,2,0,3,Installed,Gas,Antwerp
 house,wevelgem,8560,10652059,185000.0,Vanackerestraat 2,3,E,417.0,0,0,0,125,0,0,0,Good,0,1,0,0,1,0,Electric,West Flanders
 house,rocourt,4000,10607530,350000.0,"rue Nysten, 38",3,D,271.0,0,0,20,410,35,3,1970,Good,0,1,1,1,2,Installed,Fuel oil,Liège
 villa,denderhoutem,9450,10652052,795000.0,Parklaan 187,4,C,205.0,0,0,90,4604,55,0,0,As new,0,0,1,0,3,Installed,0,East Flanders
@@ -5690,7 +5719,7 @@ house,tordera,08490,10447312,325000.0,Meire 50,3,NS,233.0,1,1,0,800,0,4,2004,Goo
 villa,turnhout,2300,10651484,575000.0,Bisschopslaan 16,8,C,240.0,0,0,40,629,35,2,1970,0,0,2,0,1,4,0,Fuel oil,Antwerp
 house,vosselaar,2350,10651481,375000.0,Antwerpsesteenweg 51/5,3,A,88.41,0,0,0,199,43,3,2013,As new,0,1,0,0,1,0,Gas,Antwerp
 new-real-estate-project-apartments,mol,2400,10651450,269000.0,Antwerpsesteenweg 51/5,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Antwerp
-apartment,saint-gilles,1060,10651444,25000.0,Rue de la Concorde 16,3,E,235.0,0,0,46,0,47,2,1910,As new,0,3,3,1,3,USA hyper equipped,Gas,Brussels Capital Region
+apartment,saint-gilles,1060,10651444,25.0,Rue de la Concorde 16,3,E,235.0,0,0,46,0,47,2,1910,As new,0,3,3,1,3,USA hyper equipped,Gas,Brussels Capital Region
 house,seraing,4101,10651442,189000.0,Rue J. Wettinck 49,3,F,509.0,0,0,14,93,16,2,0,Good,0,1,1,0,1,Installed,Gas,Liège
 apartment,schaerbeek,1030,10651438,33500.0,Avenue Louise 433,2,F,288.0,0,0,4,0,47,2,1959,Good,0,1,1,0,1,Semi equipped,Fuel oil,Brussels Capital Region
 penthouse,anderlecht,1070,10651437,299000.0,Chaussée de Vleurgat 293,2,G,601.0,0,0,15,0,50,2,0,To be done up,0,1,1,0,1,Hyper equipped,Gas,Brussels Capital Region
@@ -5770,7 +5799,7 @@ house,hove,2540,10651237,479000.0,"Orteliuskaai, 8",3,E,433.0,0,1,0,826,26,3,195
 villa,hove,2540,10651236,1095000.0,"Orteliuskaai, 8",3,A,83.0,0,1,0,700,60,4,1974,As new,0,1,0,1,2,0,0,Antwerp
 house,hove,2540,10651235,1250000.0,"Orteliuskaai, 8",4,E,473.0,0,0,0,0,0,4,1979,To renovate,0,0,0,1,0,0,Gas,Antwerp
 apartment,antwerpen deurne,2100,10651234,120.0,"Orteliuskaai, 8",2,B,132.0,0,0,2,0,30,0,0,To be done up,0,1,0,0,1,0,Gas,Antwerp
-house,berlaar,2590,10651232,10800.0,Koningsplein 5,4,C,254.0,0,1,0,308,70,2,1973,0,0,1,0,0,2,Installed,0,Antwerp
+house,berlaar,2590,10651232,10.0,Koningsplein 5,4,C,254.0,0,1,0,308,70,2,1973,0,0,1,0,0,2,Installed,0,Antwerp
 house,dendermonde,9200,10651230,345000.0,Zuidlaan 2,3,B,170.0,0,0,0,270,0,2,1930,Just renovated,0,1,0,0,2,Installed,Gas,East Flanders
 new-real-estate-project-houses,wezembeek-oppem,1970,10651217,675000.0,Boulevard de la Woluwe 62 boîte 3,0,B,115.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Flemish Brabant
 new-real-estate-project-apartments,schaerbeek,1030,10651201,595000.0,Boulevard de la Woluwe 62 boîte 3,0,B,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brussels Capital Region
@@ -6023,7 +6052,7 @@ apartment,blankenberge,8370,10650583,335000.0,Pathoekeweg 120 B 1.01,2,NS,0.0,0,
 house,wevelgem,8560,10503005,195000.0,Sint-Laureysplein 18,3,F,595.0,0,1,0,633,0,0,1925,To renovate,0,1,0,0,0,0,0,West Flanders
 house,mortsel,2640,10650525,525000.0,Antwerpsestraat 34,5,D,325.0,0,1,0,357,0,3,1964,Good,0,1,0,0,0,Installed,Gas,Antwerp
 apartment,gent,9000,10650524,545000.0,Grote Huidevettershoek 1-102,5,B,160.0,0,1,0,0,0,0,1884,As new,0,1,0,0,2,Installed,Gas,East Flanders
-apartment,kontich,2550,10650523,25000.0,Antwerpsestraat 34,2,C,253.0,0,0,0,0,0,3,1976,Good,0,1,0,0,0,Semi equipped,Gas,Antwerp
+apartment,kontich,2550,10650523,25.0,Antwerpsestraat 34,2,C,253.0,0,0,0,0,0,3,1976,Good,0,1,0,0,0,Semi equipped,Gas,Antwerp
 apartment,gent,9000,10650522,254000.0,Grote Huidevettershoek 1-102,2,C,230.0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,Gas,East Flanders
 house,beveren-leie,8791,10650521,302000.0,Landegemstraat 10,3,NS,0.0,0,0,0,129,0,0,2023,0,0,1,0,0,0,0,0,West Flanders
 house,beveren-leie,8791,10650520,282000.0,Landegemstraat 10,3,NS,0.0,0,0,0,123,0,0,2023,0,0,1,0,0,0,0,0,West Flanders
@@ -6116,7 +6145,7 @@ house,warcoing,7740,10650257,169000.0,"rue Saint-Martin, 5",2,E,404.0,0,0,0,371,
 apartment,anderlecht,1070,10463117,239000.0,Rue de Neerpede 370,3,E,218.0,0,0,0,0,23,2,0,Just renovated,0,1,1,0,1,Semi equipped,0,Brussels Capital Region
 house,tilleur,4420,10650252,109000.0,rue Saint-Gilles 590,2,F,461.0,0,0,0,100,19,0,0,0,0,0,1,0,0,0,0,Liège
 villa,wilrijk,2610,10517316,1695000.0,Prins Boudewijnlaaan 318,5,D,355.0,0,0,0,622,0,4,0,Good,0,3,0,0,0,Installed,Gas,Antwerp
-apartment,waregem,8790,10650246,25000.0,"Roterijstraat, 202",2,A,62.0,0,0,0,0,122,0,2018,Good,0,1,0,0,2,Installed,Gas,West Flanders
+apartment,waregem,8790,10650246,25.0,"Roterijstraat, 202",2,A,62.0,0,0,0,0,122,0,2018,Good,0,1,0,0,2,Installed,Gas,West Flanders
 house,desselgem,8792,10650244,239000.0,"Roterijstraat, 202",2,B,153.0,0,1,0,110,0,2,0,Good,0,1,0,0,2,Installed,Gas,West Flanders
 manor-house,anzegem,8570,10650243,1695000.0,"Roterijstraat, 202",5,NS,0.0,0,1,0,10000,0,4,2022,To be done up,0,3,0,0,5,Not installed,0,West Flanders
 house,ath,7800,10650238,390000.0,"Chaussée de Bruxelles, 10",4,G,558.0,0,0,27,434,35,3,1934,Good,0,1,0,0,2,Installed,Gas,Hainaut (West)
@@ -6138,7 +6167,7 @@ apartment,gent,9000,10650206,249000.0,"Zuidstationstraat, 28",2,B,154.0,0,0,2,0,
 house,eppegem,1980,10650203,599900.0,Avenues Charles Quint 114,4,C,232.0,0,0,21,1100,40,4,1993,Good,0,2,0,0,3,USA installed,Gas,Flemish Brabant
 apartment,lommel,3920,10650201,335000.0,Kerkstraat 3,2,A,78.0,0,0,19,0,62,2,2005,Good,0,1,0,0,1,Installed,Gas,Limburg
 house,kampenhout,1910,10611025,395000.0,Leuvensesteenweg 215,2,E,429.0,0,1,0,605,0,4,1965,To renovate,0,1,0,0,1,Semi equipped,0,Flemish Brabant
-apartment-block,zelzate,9060,10650197,160000.0,Opperstraat 54,4,B,197.0,0,0,38,189,76,2,0,0,0,2,0,0,4,Installed,Gas,East Flanders
+apartment-block,zelzate,9060,10650197,1.0,Opperstraat 54,4,B,197.0,0,0,38,189,76,2,0,0,0,2,0,0,4,Installed,Gas,East Flanders
 villa,brasschaat,2930,10650191,2300000.0,Berkenlaan 44,4,B,114.0,0,1,0,7072,0,0,1977,Just renovated,0,3,0,0,0,Hyper equipped,0,Antwerp
 house,wijgmaal,3018,10650189,365000.0,Vismarkt 10 c,3,NS,0.0,0,0,0,230,40,2,1899,0,0,2,0,0,2,Not installed,0,Flemish Brabant
 house,deurne,2100,10650188,295000.0,Britselei 42,4,E,444.0,0,0,0,0,0,2,0,Just renovated,0,1,0,0,2,Installed,Gas,Antwerp
@@ -6207,6 +6236,7 @@ house,berchem-ste-agathe,1082,10623390,695000.0,Avenue Louise 205 boite 4,4,NS,0
 ground-floor,bruxelles,1020,10649986,249000.0,Rue Fransman 15,2,NS,0.0,0,0,15,0,20,2,1924,Good,0,1,1,1,1,Hyper equipped,Gas,Brussels Capital Region
 house,havelange,5370,10649981,309000.0,Rue de Malvoisin 38,3,A,0.0,0,1,0,664,0,3,2023,As new,0,1,0,0,2,Installed,Gas,Namur
 apartment,rijkevorsel,2310,10649978,298000.0,Lierselei 13/1,2,NS,0.0,0,0,0,0,0,3,0,To renovate,0,1,0,0,2,Semi equipped,Gas,Antwerp
+apartment-block,turnhout,2300,10649975,271.0,Kempenlaan 32,0,NS,0.0,0,0,0,0,0,2,0,As new,0,0,0,0,0,0,0,Antwerp
 house,gembloux,5030,10649973,199000.0,"Chaussée Nationale 4, b 21",1,C,235.0,0,0,2,0,20,0,0,Just renovated,0,0,1,0,1,Installed,Gas,Namur
 villa,vedrin,5020,10649970,360000.0,Avenue du Gouverneur Bovesse 1,4,E,357.0,0,0,40,518,20,4,1999,Good,0,1,0,0,2,Installed,0,Namur
 house,forest,2430,10262817,215000.0,Veerledorp 28/4,3,E,420.0,0,0,0,0,0,3,1938,To be done up,0,0,1,0,1,Semi equipped,Gas,Antwerp
@@ -6242,7 +6272,7 @@ house,sint-niklaas,9100,10649856,275000.0,Mercatorstraat 64,5,D,308.0,0,0,0,100,
 house,brugge,8000,10649851,695000.0,"Yv. Serruysstraat, 22",3,NS,0.0,0,0,0,809,0,2,0,As new,0,1,0,0,2,Installed,Fuel oil,West Flanders
 house,dadizele,8890,10649849,335000.0,Gaverstraat 38/01,3,NS,0.0,0,0,0,345,40,4,0,0,0,2,0,0,2,0,0,West Flanders
 house,haneffe,4357,10599840,199000.0,Avenue Edmond Leburton 10,2,G,633.0,0,0,0,915,26,3,0,To renovate,0,1,0,1,0,0,0,Liège
-apartment,merchtem,1785,10649847,25000.0,Meyskensstraat 222,2,B,159.0,0,1,0,0,0,4,2012,Good,0,1,0,0,1,Installed,Gas,Flemish Brabant
+apartment,merchtem,1785,10649847,25.0,Meyskensstraat 222,2,B,159.0,0,1,0,0,0,4,2012,Good,0,1,0,0,1,Installed,Gas,Flemish Brabant
 apartment,bekkevoort,3460,10649846,245000.0,Hoogstraat 2 bus 1,2,D,324.0,0,0,30,0,20,0,0,Good,0,0,0,0,1,Installed,Electric,Flemish Brabant
 house,merchtem,1785,10649845,545000.0,Meyskensstraat 222,5,B,195.0,0,1,0,2058,0,4,1981,Good,0,1,1,0,3,Installed,0,Flemish Brabant
 bungalow,esneux,4130,10649836,149000.0,Rue Charles Magnette 24/40,3,G,951.0,0,0,30,1011,0,0,0,To renovate,0,1,0,0,1,Not installed,Fuel oil,Liège
@@ -6260,7 +6290,7 @@ apartment,nivelles,1400,10592198,230000.0,Chaussée de Bruxelles 23 (sur N5),2,C
 house,mettet,5641,10649801,130000.0,Avenue Jean Materne 24,1,NS,0.0,0,0,0,1192,0,0,0,Good,0,1,0,0,1,0,0,Namur
 house,aubange,6790,10649798,495000.0,Route d'Arlon 188a,4,A,69.0,0,0,15,259,40,2,2020,As new,0,1,0,0,2,Hyper equipped,Gas,Luxembourg (shared with Eastern Hainaut)
 apartment-block,andenne,5300,10649797,319000.0,Rue Brun 11,4,B,151.0,0,0,0,0,0,0,0,0,0,0,3,0,3,Semi equipped,Gas,Namur
-house,couthuin,4218,10649790,275000.0,Place des Tilleuls 48,3,B,157.0,0,0,0,634,0,4,2012,0,0,1,0,0,0,0,Fuel oil,Liège
+house,couthuin,4218,10649790,275.0,Place des Tilleuls 48,3,B,157.0,0,0,0,634,0,4,2012,0,0,1,0,0,0,0,Fuel oil,Liège
 house,chastre,1450,10649789,625000.0,Grand' Route 3,4,C,236.0,0,0,120,3200,0,4,0,Good,0,3,0,0,0,Installed,Fuel oil,Walloon Brabant
 house,overijse,3090,10649788,875000.0,Grand' Route 3,6,C,217.0,0,0,0,1079,60,4,1973,To be done up,0,3,0,0,0,Installed,Gas,Flemish Brabant
 house,marche-en-famenne,6900,10649786,349000.0,Rue de Malvoisin 38,3,A,0.0,0,1,0,1009,0,4,2023,As new,0,1,0,0,2,Installed,Gas,Luxembourg (shared with Eastern Hainaut)
@@ -6622,7 +6652,8 @@ house,courcelles,6180,10648780,269000.0,Rue de Charleroi 31/7,4,D,305.0,0,0,50,2
 villa,waterloo,1410,10648779,525000.0,Rue François Libert 39,3,E,357.0,0,0,40,778,35,4,1992,As new,0,2,0,1,3,Installed,Electric,Walloon Brabant
 apartment,péruwelz bon-secours,7603,10648778,199000.0,Rue Louis Chevalier 44/bt1,2,B,0.0,0,0,0,0,34,3,2023,As new,0,1,0,0,2,0,Gas,Hainaut (West)
 house,aalst,9300,10648774,230000.0,Grote Baan 170,3,F,748.0,0,1,0,786,29,3,0,Good,0,1,0,0,1,Semi equipped,Gas,East Flanders
-apartment,edegem,2650,10648769,30000.0,"Prins Boudewijnlaan, 112-114",2,C,203.0,0,0,14,0,0,4,1975,Just renovated,0,1,1,1,1,USA installed,0,Antwerp
+apartment-block,antwerp,2018,10648773,47760.0,"Mechelsesteenweg,157",4,C,293.0,0,0,0,120,0,2,0,To be done up,0,8,8,0,8,Installed,Gas,Antwerp
+apartment,edegem,2650,10648769,30.0,"Prins Boudewijnlaan, 112-114",2,C,203.0,0,0,14,0,0,4,1975,Just renovated,0,1,1,1,1,USA installed,0,Antwerp
 villa,overijse,3090,10648768,545000.0,Brusselsesteenweg 547,3,F,613.0,0,0,20,700,40,4,1963,Good,0,1,0,0,1,Hyper equipped,0,Flemish Brabant
 apartment,watermael-boitsfort,1170,10648757,399000.0,Bld. Brand Whitlock 108,2,E,228.0,0,0,6,0,0,2,2004,Good,0,2,0,0,1,USA hyper equipped,Electric,Brussels Capital Region
 flat-studio,bruxelles,1000,10648756,190000.0,Bld. Brand Whitlock 108,0,C,97.0,1,0,3,0,30,2,2019,Good,0,1,0,0,1,USA installed,Gas,Brussels Capital Region
@@ -6649,7 +6680,7 @@ house,merelbeke,9820,10648707,449000.0,Hoogstraat 20,3,B,192.0,0,0,20,540,34,3,1
 apartment,knokke-heist,8300,10648700,1595000.0,Zeedijk Zoute 792,3,C,288.0,0,1,0,0,0,2,1960,Just renovated,0,3,3,0,2,0,Electric,West Flanders
 house,geraardsbergen,9506,10648696,295000.0,BRUGSTRAAT 31  BUS 4,3,C,240.0,0,0,20,226,17,2,1959,As new,0,1,0,1,2,Installed,Gas,East Flanders
 apartment,antwerpen merksem,2170,10648693,180000.0,Amsterdamstraat 27,2,C,221.0,0,0,7,0,38,2,0,Good,0,1,0,0,1,0,Gas,Antwerp
-apartment,antwerp,2000,10648692,35000.0,Amsterdamstraat 27,2,A,88.0,0,0,12,0,42,2,2016,Good,0,1,1,0,1,USA installed,Gas,Antwerp
+apartment,antwerp,2000,10648692,35.0,Amsterdamstraat 27,2,A,88.0,0,0,12,0,42,2,2016,Good,0,1,1,0,1,USA installed,Gas,Antwerp
 apartment-block,mortsel,2640,10648691,494000.0,Antwerpsestraat 292,4,B,160.0,0,0,0,0,0,2,1966,Good,0,3,0,0,3,Semi equipped,Gas,Antwerp
 house,adegem,9991,10648690,399000.0,Gravenstraat 30A,4,F,1370.0,0,1,0,5239,0,4,1962,To renovate,0,1,0,0,2,Semi equipped,Carbon,East Flanders
 apartment-block,anderlecht,1070,10648688,550000.0,Avenue de la chasse 159,5,NS,0.0,0,0,10,150,0,2,1920,Good,0,3,0,0,0,0,Gas,Brussels Capital Region
@@ -6695,7 +6726,7 @@ house,dilbeek,1702,10648597,349000.0,Astridlaan 1,2,F,535.0,0,1,0,244,24,3,1956,
 apartment,molenbeek-saint-jean,1080,10648587,169000.0,Avenue François Sebrechts 26,1,G,798.0,0,0,0,0,14,2,1940,To be done up,0,1,0,0,1,0,Gas,Brussels Capital Region
 apartment,schaerbeek,1030,10648586,149000.0,Avenue François Sebrechts 26,1,D,187.0,0,0,0,0,16,2,0,As new,0,1,0,0,1,0,Gas,Brussels Capital Region
 new-real-estate-project-houses,gent,9041,10648579,475000.0,Hoogveldstraat 7,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
-apartment,schaerbeek,1030,10648577,25000.0,Parvis Sainte-Alix 37,2,C,123.0,1,1,0,0,37,0,2002,Good,0,1,0,0,1,USA hyper equipped,Gas,Brussels Capital Region
+apartment,schaerbeek,1030,10648577,25.0,Parvis Sainte-Alix 37,2,C,123.0,1,1,0,0,37,0,2002,Good,0,1,0,0,1,USA hyper equipped,Gas,Brussels Capital Region
 house,sint-niklaas,9100,10648575,769000.0,Parklaan 59 bus1,4,C,209.0,0,0,100,3601,0,4,1957,Good,0,2,0,0,2,Installed,Gas,East Flanders
 house,terhagen,2840,10648573,239000.0,Amsterdamstraat 15 bus202,3,C,284.0,0,0,0,79,0,2,0,Good,0,1,1,0,2,Installed,Gas,Antwerp
 apartment,destelbergen,9070,10648572,275000.0,Dendermondesteenweg 501,2,B,159.0,0,0,0,0,0,2,1993,Just renovated,0,1,0,0,1,Semi equipped,Gas,East Flanders
@@ -6801,7 +6832,7 @@ house,herselt,2230,10587811,299000.0,Dorpsstraat 34 Bus 1,3,F,902.0,0,0,0,0,0,0,
 house,mechelen,2800,10648290,299500.0,Dorpsstraat 34 Bus 1,3,NS,0.0,0,1,0,0,0,0,1910,To be done up,0,0,0,0,1,0,0,Antwerp
 house,nijlen,2560,10498074,285000.0,Dorpsstraat 34 Bus 1,2,F,643.0,0,1,0,157,0,0,1963,To renovate,0,1,0,0,2,Installed,0,Antwerp
 apartment,knokke,8300,10648287,995000.0,Sparrendreef 90 – Kustlaan 239 – Duinbergenlaan 92,3,B,110.0,0,1,0,0,0,0,1974,0,0,2,0,0,0,0,0,West Flanders
-apartment,brasschaat,2930,10648285,25000.0,Bredabaan 133,2,B,145.0,0,1,0,0,0,0,1970,To be done up,0,1,0,0,1,Installed,Gas,Antwerp
+apartment,brasschaat,2930,10648285,25.0,Bredabaan 133,2,B,145.0,0,1,0,0,0,0,1970,To be done up,0,1,0,0,1,Installed,Gas,Antwerp
 house,watervliet,9988,10648280,495000.0,Boelare 86,5,D,319.0,0,0,0,1938,0,0,1980,0,0,1,0,0,1,Installed,0,East Flanders
 house,schendelbeke,9506,10587792,450000.0,"Heldenlaan, 83",4,NS,0.0,0,1,0,636,0,0,0,0,0,2,0,0,3,Installed,0,East Flanders
 house,zottegem,9620,10648276,185000.0,"Heldenlaan, 83",2,E,481.0,0,1,0,75,0,0,0,As new,0,1,0,1,1,Installed,0,East Flanders
@@ -6964,7 +6995,7 @@ house,ronse,9600,10647776,180000.0,Grote Markt 35,3,C,225.0,0,1,0,150,0,2,0,To b
 house,kluisbergen,9690,10647773,349000.0,Grote Markt 35,3,NS,0.0,0,0,0,1510,0,3,1989,Good,0,1,0,0,2,Semi equipped,Electric,East Flanders
 house,zwijndrecht,2070,10647772,439000.0,Prinses Josephine Charlottelaan 72,3,D,306.0,0,0,0,405,0,3,1979,Good,0,1,0,0,2,Installed,0,Antwerp
 house,brecht,2960,10647769,449000.0,Bredabaan 260,5,F,939.0,0,0,0,1004,0,3,1960,To renovate,0,2,0,0,4,0,Gas,Antwerp
-ground-floor,stabroek,2930,10647768,25000.0,Kloosterstraat 89-93,2,C,251.0,0,0,0,0,0,3,1977,Good,0,1,0,0,1,0,0,Antwerp
+ground-floor,stabroek,2930,10647768,25.0,Kloosterstraat 89-93,2,C,251.0,0,0,0,0,0,3,1977,Good,0,1,0,0,1,0,0,Antwerp
 house,ekeren,2180,10647767,340000.0,Kloosterstraat 89-93,2,C,266.0,0,0,0,174,0,2,1930,Good,0,1,0,0,1,0,0,Antwerp
 house,edegem,2650,10647763,429000.0,Antwerpsestraat 34,4,F,794.0,0,0,0,318,0,3,1956,To be done up,0,1,0,0,0,Semi equipped,Fuel oil,Antwerp
 house,ninove,9400,10647758,359000.0,Onkerzelestraat 272,3,F,763.0,0,0,0,735,0,4,0,To be done up,0,1,0,0,1,Installed,0,East Flanders
@@ -7076,6 +7107,7 @@ duplex,olen,2250,10647439,299869.0,Grote Markt 10,2,NS,0.0,0,0,13,0,0,0,2023,0,0
 house,olen,2250,10647437,334805.0,Grote Markt 10,3,NS,0.0,0,0,24,0,0,0,2023,0,0,1,0,0,2,Installed,0,Antwerp
 house,wevelgem,8560,10647436,119000.0,Vanackerestraat 2,1,F,1045.0,0,1,0,95,0,0,0,Good,0,1,0,0,3,0,0,West Flanders
 duplex,herentals,2200,10647435,259000.0,Grote Markt 10,2,B,122.0,0,1,0,0,0,0,1969,Good,0,2,0,0,3,Installed,Gas,Antwerp
+apartment,herentals,2200,10647434,10.0,Grote Markt 10,1,C,272.0,0,1,0,0,30,2,1995,Good,0,1,0,0,1,Installed,Electric,Antwerp
 house,melsele,9120,10647432,180000.0,Vrasenestraat 16/001,2,F,945.0,0,0,0,192,0,3,1953,To renovate,0,1,0,0,0,Installed,0,East Flanders
 apartment,herentals,2200,10647431,195000.0,Grote Markt 10,2,B,179.0,0,0,0,0,0,3,1992,Good,0,1,0,0,1,Semi equipped,Gas,Antwerp
 apartment,kortrijk,8500,10647430,365000.0,Doorniksestraat 33,2,B,183.0,0,0,10,0,0,2,2009,As new,0,1,0,0,1,Installed,Gas,West Flanders
@@ -7125,6 +7157,7 @@ bungalow,herselt,2230,10647315,195000.0,Markt 20,2,F,655.0,0,1,0,1782,0,4,1971,G
 house,herselt,2230,10647314,199000.0,Markt 20,3,C,291.0,0,0,0,818,0,4,2013,Good,0,1,0,0,1,0,Pellet,Antwerp
 house,geel,2440,10647313,365000.0,Markt 20,5,C,276.0,0,1,0,840,0,4,1985,Good,0,1,1,0,1,Installed,Gas,Antwerp
 house,turnhout,2300,10647309,325000.0,Kempenlaan 32,4,C,296.0,0,1,0,410,38,3,1971,To be done up,0,1,0,0,2,Semi equipped,Gas,Antwerp
+apartment,zottegem,9620,10647307,15.0,Grotenbergestraat 1,2,NS,0.0,0,0,132,0,59,3,2009,Good,0,2,0,0,0,0,Gas,East Flanders
 apartment,turnhout,2300,10647306,16.0,Kempenlaan 32,4,C,253.0,0,0,20,0,0,3,1972,Good,0,1,0,0,1,Semi equipped,Gas,Antwerp
 house,waterloo,1410,10647301,275000.0,Chaussée de Bruxelles 168,2,G,586.0,0,0,0,371,0,3,1900,To restore,0,2,0,0,0,Not installed,Gas,Walloon Brabant
 mixed-use-building,aalter,9880,10591890,985000.0,Stationsplein 5,5,C,212.0,0,0,0,2240,0,0,0,Good,0,3,0,0,5,Installed,Fuel oil,East Flanders
@@ -7148,7 +7181,7 @@ house,richelle,4600,10647240,159000.0,Avenue Franklin Roosevelt 22A,2,G,590.0,0,
 house,zelzate,9060,10647237,379000.0,Kortrijksesteenweg 241A,3,NS,0.0,0,0,0,388,0,0,2023,0,0,1,0,0,2,0,0,East Flanders
 bungalow,lokeren,9160,10647230,389000.0,Durmelaan 24,3,C,234.0,0,0,0,1121,0,4,1978,Good,0,1,0,0,1,0,Gas,East Flanders
 apartment,oostende,8400,10647226,675000.0,Zeedijk 115,3,B,110.0,0,0,5,0,28,2,1962,Good,0,1,0,0,0,0,Gas,West Flanders
-apartment,duffel,2570,10647222,269000.0,Dorp 35,2,C,279.0,0,0,0,0,40,2,1980,Good,0,1,0,0,1,0,Gas,Antwerp
+apartment,duffel,2570,10647222,269.0,Dorp 35,2,C,279.0,0,0,0,0,40,2,1980,Good,0,1,0,0,1,0,Gas,Antwerp
 house,petit-rechain,4800,10647220,415000.0,Avenue Elisabeth 144,3,D,270.0,0,0,25,1117,32,4,0,0,0,1,0,0,2,Installed,Fuel oil,Liège
 apartment,oostrozebeke,8780,10647206,210000.0,Posterijstraat 61,2,B,101.0,0,0,0,0,0,0,2005,Good,0,1,0,0,1,0,Gas,West Flanders
 new-real-estate-project-houses,oosterzele,9860,10647203,426700.0,Pauline Van Pottelsberghelaan 22,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
@@ -7321,7 +7354,7 @@ apartment,koksijde,8670,10239279,215000.0,Robert Vandammestraat 107,2,B,144.0,0,
 mansion,spa,4900,10646724,540000.0,"Avenue Hanlet, 2",7,D,334.0,0,0,29,1820,37,4,0,Good,0,2,2,1,3,Installed,Gas,Liège
 villa,nevele,9850,10646722,1255248.0,Kortrijksesteenweg 19,4,NS,0.0,0,0,0,1761,0,4,2023,Good,0,2,0,0,3,0,0,East Flanders
 apartment,grimbergen,1853,10646721,290000.0,Grote Markt 16,2,C,278.0,0,0,0,0,34,0,1969,To renovate,0,0,0,0,0,0,0,Flemish Brabant
-apartment,oostende,8400,10646718,55000.0,Groentemarkt 1,3,D,354.0,0,1,0,0,0,0,1963,Good,0,0,0,0,0,0,0,West Flanders
+apartment,oostende,8400,10646718,55.0,Groentemarkt 1,3,D,354.0,0,1,0,0,0,0,1963,Good,0,0,0,0,0,0,0,West Flanders
 villa,pelt,3910,10646710,1495000.0,Graaf De Broquevillestraat 35,8,C,286.0,0,0,0,4930,0,4,1919,Good,0,3,0,0,0,0,Gas,Limburg
 new-real-estate-project-apartments,roeselare,8800,9570396,206775.0,Sint-Petrus en Paulusstraat 17 bus 1,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 villa,schilde,2970,10646702,1875000.0,Turnhoutsebaan 328,4,NS,0.0,0,1,0,2001,66,4,2019,Good,0,4,0,0,5,0,0,Antwerp
@@ -7403,6 +7436,7 @@ house,montigny-le-tilleul,6110,10646435,142000.0,Chaussée de Charleroi 186,2,D,
 house,biez,1390,10646425,375000.0,Rue du Bosquet 29,3,D,330.0,0,1,0,790,14,4,0,0,0,1,0,0,1,Installed,Gas,Walloon Brabant
 house,olne,4877,10646414,259000.0,Rue de Herve 70,5,G,671.0,0,0,15,520,16,4,0,To renovate,0,1,1,1,1,Not installed,0,Liège
 apartment,herzele,9550,10646412,220000.0,Bruisbeke 72,1,A,92.0,0,0,0,0,0,2,2020,As new,0,1,1,0,1,Hyper equipped,0,East Flanders
+apartment,asse,1730,10646410,380.0,Montagne aux Herbes Potagères 11,3,C,224.0,0,1,0,0,32,4,1981,Good,0,1,0,0,0,0,Gas,
 apartment,jette,1090,10646408,245000.0,Av. Houba de Strooper 618,3,NS,0.0,0,0,15,0,27,1,1976,0,0,1,0,0,1,Installed,Gas,Brussels Capital Region
 house,harelbeke,8530,10646403,269000.0,Hulstedorp 18,3,D,368.0,0,1,0,418,0,0,0,Good,0,0,0,0,1,Installed,Gas,West Flanders
 house,grÂce-hollogne,4460,10502337,285000.0,Grand’Route 548,2,G,650.0,0,0,50,401,25,3,0,Good,0,1,0,0,2,Installed,Fuel oil,Liège
@@ -7432,6 +7466,7 @@ manor-house,leuven,3000,10646319,945000.0,Diestsesteenweg 427 C,4,A,90.0,0,1,0,1
 house,villance,6890,10646313,329900.0,Rue du Commerce 25,4,D,309.0,0,0,0,2520,0,4,1984,Good,0,1,0,0,2,Installed,Fuel oil,Luxembourg (shared with Eastern Hainaut)
 villa,belsele,9111,10646309,595000.0,Patotterijstraat 29,3,C,204.0,0,0,0,1414,0,4,1993,Good,0,1,0,0,2,0,Gas,East Flanders
 house,geetbets,3450,10244625,165000.0,Oudestraat 1 bus7,3,F,827.0,0,0,0,298,0,4,0,0,0,0,0,0,0,0,Fuel oil,Flemish Brabant
+new-real-estate-project-houses,herzele,9550,10646296,4.0,Stationstraat 32,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
 duplex,brussels,1000,10646289,565000.0,Rue Archimède 93b,2,D,207.0,0,0,0,0,60,2,1899,As new,0,1,0,1,2,Hyper equipped,0,Brussels Capital Region
 house,monceau-sur-sambre,6031,10646286,278000.0,Avenue Paul pastur 380,4,E,391.0,0,0,35,720,32,4,0,0,0,1,0,0,2,Installed,Fuel oil,Luxembourg (shared with Eastern Hainaut)
 villa,acoz,6280,10646284,288000.0,Avenue Paul pastur 380,4,G,616.0,0,0,25,1841,26,4,1962,0,0,1,0,0,1,Semi equipped,Fuel oil,Luxembourg (shared with Eastern Hainaut)
@@ -7563,7 +7598,7 @@ house,schelle,2627,10645961,425000.0,Kruisbogenhofstraat 11,4,B,136.0,0,0,0,0,44
 house,zaventem,1930,10645960,480000.0,Korenmarkt 55,4,B,194.0,0,1,0,867,30,2,1967,Good,0,1,0,0,2,0,0,Flemish Brabant
 house,antwerp,2000,10645958,725000.0,Bredabaan 1026/6,4,C,227.0,0,0,28,87,28,2,1850,0,0,3,0,0,3,0,0,Antwerp
 house,ranst,2520,10645956,565000.0,"Orteliuskaai, 8",4,B,108.0,0,0,25,651,30,4,2001,As new,0,1,0,0,2,0,Gas,Antwerp
-apartment,antwerp,2000,10645954,30000.0,"Orteliuskaai, 8",3,B,195.0,0,0,7,0,0,0,0,As new,0,1,0,1,0,0,Gas,Antwerp
+apartment,antwerp,2000,10645954,30.0,"Orteliuskaai, 8",3,B,195.0,0,0,7,0,0,0,0,As new,0,1,0,1,0,0,Gas,Antwerp
 apartment,schaerbeek,1030,10645953,210000.0,Rue Emanuel Vandriessche 75,1,E,256.0,0,0,0,0,35,2,1970,As new,0,1,1,0,1,USA hyper equipped,0,Brussels Capital Region
 flat-studio,ixelles,1050,10645952,170000.0,Rue Emanuel Vandriessche 75,0,E,269.0,0,0,0,0,30,0,1967,To renovate,0,1,1,0,1,0,Gas,Brussels Capital Region
 new-real-estate-project-houses,genk,3600,10645942,370000.0,Het Dorlik 16,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Limburg
@@ -7580,6 +7615,7 @@ town-house,dilbeek itterbeek,1701,10645925,349000.0,Galgstraat 83,3,D,325.0,0,0,
 apartment,sint-andries,8200,10645924,189000.0,Dorpsstraat 62,2,D,393.0,0,0,0,0,0,0,1968,0,0,1,0,0,1,Semi equipped,Gas,West Flanders
 house,cerfontaine,5630,10645923,343447.0,"Avenue Paul Gilson, 49",4,A,0.0,0,0,0,1714,0,4,0,As new,0,1,0,0,2,0,0,Namur
 house,binche epinois,7134,10645922,361966.0,"Avenue Paul Gilson, 49",4,A,0.0,0,0,0,1000,0,4,0,As new,0,1,0,0,2,0,0,Hainaut (West)
+apartment-block,saint-josse-ten-noode,1210,10643362,5.0,Rue du Mail 77,7,NS,0.0,0,0,16,160,0,2,0,Good,0,4,4,0,4,0,0,Brussels Capital Region
 house,heusden-zolder,3550,10645920,599000.0,Schootstraat 254,6,E,427.0,0,1,0,2500,0,4,1987,Good,0,1,0,0,0,Installed,Fuel oil,Limburg
 house,denderleeuw welle,9473,10645916,235000.0,Marktstraat 5,2,E,470.0,0,1,0,190,14,3,0,Just renovated,0,1,1,1,1,Installed,0,East Flanders
 house,berlare,9290,10645915,485000.0,Marktstraat 5,4,A,2.0,0,0,0,200,38,2,2022,As new,0,1,0,1,2,Hyper equipped,0,East Flanders
@@ -7614,6 +7650,7 @@ villa,wavre,1300,10645863,449000.0,Avenue Reine Astrid 65,3,D,292.0,0,1,0,654,30
 house,arendonk,2370,10645862,279000.0,Vrijheid 8,5,D,333.0,0,0,0,288,35,2,1959,Good,0,1,0,0,1,Semi equipped,Gas,Antwerp
 house,aarschot,3200,10645860,245000.0,Herseltsesteenweg 95,2,B,120.0,0,0,8,30,0,2,0,As new,0,1,0,0,1,Installed,Gas,Flemish Brabant
 house,liedekerke,1770,10645859,475000.0,Stationsstraat 120,3,B,164.0,0,1,0,650,29,2,1933,As new,0,2,0,0,0,Hyper equipped,Gas,Flemish Brabant
+new-real-estate-project-houses,herzele,9550,10645855,4.0,Stationsstraat 120,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,East Flanders
 house,tournai,7500,10577261,215000.0,Boulevard Delwart 22/B,4,C,193.0,0,0,0,50,0,2,0,0,0,4,0,0,0,0,0,Hainaut (West)
 house,tienen,3300,10645848,335000.0,Academiestraat 23,3,E,429.0,0,1,0,865,0,2,0,To renovate,0,1,0,0,0,0,0,Flemish Brabant
 house,forges,6464,10645847,160000.0,Chaussée de Philippeville 22,3,F,490.0,0,0,25,3927,0,4,0,Good,0,1,0,1,0,0,Wood,Luxembourg (shared with Eastern Hainaut)
@@ -7713,7 +7750,7 @@ apartment,seraing,4100,10645618,165000.0,Route du Condroz 72,1,B,155.0,0,1,0,0,1
 villa,herenthout,2270,10645617,1350000.0,Koningsplein 5,4,B,170.0,0,1,0,5644,58,4,1979,0,0,3,0,1,4,Hyper equipped,Fuel oil,Antwerp
 mixed-use-building,antwerp,2100,10645616,295000.0,Verbondstraat 116,2,NS,0.0,1,0,0,56,28,2,0,Good,0,1,0,0,1,Hyper equipped,Gas,Antwerp
 mixed-use-building,ninove,9400,10433175,950000.0,Ninoofsesteenweg 1036,0,NS,0.0,0,0,0,0,0,2,0,To renovate,0,0,0,0,0,0,Gas,East Flanders
-penthouse,auderghem,1160,10645609,1987358.0,Avenue de L'Armée 41,1,G,358.0,0,0,20,0,0,2,0,To renovate,0,1,0,0,0,0,0,Brussels Capital Region
+penthouse,auderghem,1160,10645609,19873.0,Avenue de L'Armée 41,1,G,358.0,0,0,20,0,0,2,0,To renovate,0,1,0,0,0,0,0,Brussels Capital Region
 house,erpe-mere,9420,10645607,213000.0,Brusselbaan 90,4,F,591.0,0,0,25,300,32,3,0,Good,0,1,0,0,1,Semi equipped,Fuel oil,East Flanders
 exceptional-property,aalst,9300,10645606,375000.0,Brusselbaan 90,3,B,183.0,0,0,12,159,38,2,0,As new,0,1,0,0,2,Hyper equipped,Gas,East Flanders
 new-real-estate-project-apartments,zaventem sint-stevens-woluwe,1932,10645599,740500.0,Boulevard de la Woluwe 62 boîte 3,0,A,99.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Flemish Brabant
@@ -7840,7 +7877,7 @@ apartment,kessel-lo,3010,10645274,345000.0,Brusselsestraat 140,1,B,132.0,0,0,4,0
 house,wortegem-petegem,9790,10645273,285000.0,ooikeplein 2a,3,B,128.0,0,1,0,235,0,0,1976,As new,0,0,0,0,1,Installed,Gas,East Flanders
 house,waregem,8790,10645268,375000.0,Wakkensteenweg 67,3,A,31.0,0,1,0,187,0,0,0,Just renovated,0,2,0,0,1,Hyper equipped,Gas,West Flanders
 house,oudsbergen,3670,10645267,265000.0,Daalstraat 1,3,F,581.0,0,0,0,1918,0,0,1958,To renovate,0,1,0,0,1,0,0,Limburg
-house,riemst,3770,10645262,189000.0,Daalstraat 1,3,F,909.0,0,1,0,170,0,0,1889,To renovate,0,1,0,0,1,0,0,Limburg
+house,riemst,3770,10645262,189.0,Daalstraat 1,3,F,909.0,0,1,0,170,0,0,1889,To renovate,0,1,0,0,1,0,0,Limburg
 house,zutendaal,3690,10645261,899000.0,Daalstraat 1,3,C,248.0,0,1,0,2514,0,0,1969,0,0,4,0,1,4,0,0,Limburg
 mansion,brugge,8000,10645260,1450000.0,Grote Moerstraat   76,4,E,478.0,0,0,0,1046,0,0,0,To renovate,0,0,0,1,0,0,0,West Flanders
 apartment,zutendaal,3690,10645259,274000.0,Daalstraat 1,2,NS,0.0,0,0,18,0,0,0,0,0,0,1,0,0,1,0,0,Limburg
@@ -7881,6 +7918,7 @@ house,berendrecht,2040,10645182,260000.0,Dorpsstraat 11,1,F,685.0,0,0,0,450,28,0
 house,ledeberg,9050,10645180,279000.0,Rondehuisjesdreef 3,3,D,327.0,0,0,0,40,0,0,0,To be done up,0,1,0,0,2,0,0,East Flanders
 house,lochristi,9080,10645179,495000.0,Dorp Oost 7,3,A,75.0,0,1,0,531,0,0,2016,0,0,1,0,1,2,0,0,East Flanders
 apartment,lochristi,9080,10645178,448075.0,Dorp Oost 7,2,A,55.0,0,1,0,0,0,0,2018,0,0,1,0,0,1,0,0,East Flanders
+apartment,brasschaat,2930,10645177,675.0,Bredabaan 294,3,NS,0.0,0,0,18,0,62,2,1993,Good,0,2,2,0,3,Installed,Electric,Antwerp
 villa,brasschaat,2930,10645176,935000.0,Bredabaan 294,6,E,485.0,0,0,60,6798,90,4,1969,To renovate,0,3,1,1,4,Installed,Fuel oil,Antwerp
 house,roosdaal,1760,10645174,359000.0,Gentsesteenweg 145,3,E,495.0,0,1,0,283,0,0,1975,To be done up,0,1,0,0,2,Installed,Fuel oil,Flemish Brabant
 villa,anzegem,8570,10645172,550000.0,Jan Bouckaertstraat 20,4,D,355.0,0,0,0,987,0,0,0,0,0,0,0,0,0,0,0,West Flanders
@@ -7902,8 +7940,8 @@ apartment,sint-denijs-westrem,9051,10645137,415000.0,Galglaan 1,2,NS,0.0,0,0,27,
 house,walhain,1457,10645133,375000.0,Chaussée de Bruxelles 2,3,A,80.0,0,0,0,190,0,3,2010,Good,0,2,0,0,0,0,Gas,Walloon Brabant
 house,hasselt,3500,10645131,235000.0,Kempische Steenweg 398,2,F,537.0,0,0,0,718,0,4,1951,To renovate,0,1,0,0,0,0,Fuel oil,Limburg
 house,kortrijk,8500,10645125,220000.0,Budastraat 16,5,F,549.0,0,0,0,198,0,0,1967,To renovate,0,0,0,0,0,0,0,West Flanders
-apartment,roeselare,8800,10645103,263000.0,St-Amandsstraat 23,2,NS,0.0,0,0,17,0,0,0,2019,0,0,1,0,0,1,0,0,West Flanders
-apartment,roeselare,8800,10645102,288000.0,St-Amandsstraat 23,2,NS,0.0,0,0,18,0,0,0,2019,0,0,1,0,0,2,0,0,West Flanders
+apartment,roeselare,8800,10645103,263.0,St-Amandsstraat 23,2,NS,0.0,0,0,17,0,0,0,2019,0,0,1,0,0,1,0,0,West Flanders
+apartment,roeselare,8800,10645102,288.0,St-Amandsstraat 23,2,NS,0.0,0,0,18,0,0,0,2019,0,0,1,0,0,2,0,0,West Flanders
 apartment,roeselare,8800,10645101,245000.0,St-Amandsstraat 23,2,NS,0.0,0,0,6,0,0,0,2019,0,0,1,0,0,1,0,0,West Flanders
 new-real-estate-project-apartments,aartrijke,8211,10645099,370438.0,St-Amandsstraat 23,0,NS,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,West Flanders
 house,brugge,8000,10506037,289000.0,Wingene Steenweg 35,3,F,1279.0,0,1,0,52,0,0,0,0,0,0,0,0,0,0,0,West Flanders
@@ -8047,7 +8085,7 @@ villa,mouscron,7700,10644608,239000.0,"Avenue du Château, 200",2,D,330.0,0,1,0,
 house,eghezée,5310,10603439,275000.0,Grand' Route 3,3,F,453.0,0,0,0,332,26,4,1890,To renovate,0,1,0,0,2,0,Gas,Namur
 apartment,gent,9000,10644596,450000.0,"Kortrijksesteenweg, 390 bus 001",3,B,143.0,0,0,5,0,0,2,1963,Just renovated,0,2,0,0,2,Installed,Gas,East Flanders
 house,sint-pieters-woluwe,1150,10644595,1295000.0,Brusselsesteenweg 527,5,E,252.0,0,0,25,552,60,4,1974,As new,0,2,1,1,2,Semi equipped,Gas,Brussels Capital Region
-apartment,dendermonde,9200,10644594,30000.0,Mechelsesteenweg 137,3,B,150.0,0,1,0,0,0,2,1980,Just renovated,0,1,0,0,1,Installed,Gas,East Flanders
+apartment,dendermonde,9200,10644594,30.0,Mechelsesteenweg 137,3,B,150.0,0,1,0,0,0,2,1980,Just renovated,0,1,0,0,1,Installed,Gas,East Flanders
 apartment,burcht,2070,10644593,348000.0,"Frans de L'arbrelaan, 57",3,B,170.0,0,0,11,0,36,4,1999,As new,0,1,0,0,2,Hyper equipped,Gas,Antwerp
 house,liège,4020,10644592,189000.0,Rue Monjoie 4,3,E,363.0,0,1,0,286,0,3,1910,To be done up,0,0,1,0,1,Semi equipped,Gas,Liège
 mansion,avelgem,8580,10644589,349000.0,Grote Markt 35,4,B,189.0,0,0,54,388,0,3,0,Good,0,1,0,0,2,Installed,Fuel oil,West Flanders
@@ -8086,6 +8124,7 @@ house,tubize,1480,10644483,319000.0,Rue de Mons 63,4,D,314.0,0,1,0,370,0,2,0,Goo
 house,les bons villers mellet,6211,10644482,159000.0,Rue de Mons 63,2,D,310.0,0,0,0,230,0,2,0,Good,0,1,0,0,0,0,0,Luxembourg (shared with Eastern Hainaut)
 house,nivelles,1400,10644478,795000.0,"rue des Forges, 287",7,D,336.0,0,0,0,881,40,3,1938,0,0,1,2,0,4,Installed,0,Walloon Brabant
 house,zoutleeuw,3440,10644473,649000.0,Menegaard 24,3,A,13.0,0,0,41,874,50,4,2022,Good,0,1,0,0,2,0,Gas,Flemish Brabant
+apartment,knokke-heist,8300,10644465,85.0,Kustlaan 259,2,B,151.0,0,1,0,0,0,0,1980,Good,0,2,0,0,0,0,0,West Flanders
 apartment,uccle,1180,10644460,2350000.0,Rue Washington 128b,4,NS,0.0,0,1,0,0,0,4,1990,To be done up,0,2,2,0,4,Installed,0,Brussels Capital Region
 apartment,halle,1500,10644456,299000.0,Minderbroedersstraat 8,3,C,250.0,0,1,0,0,0,0,1991,Good,0,1,0,0,2,0,0,Flemish Brabant
 triplex,halle,1500,10644455,295000.0,Minderbroedersstraat 8,2,NS,0.0,0,1,0,0,0,0,0,Good,0,1,0,0,3,0,Gas,Flemish Brabant
@@ -8150,7 +8189,7 @@ apartment,aalst,9300,10644190,139000.0,Graanmarkt 10,2,C,222.0,0,1,0,0,25,2,1967
 house,tubize,1480,10644187,195000.0,Rue De Mons 46,4,F,510.0,0,0,20,540,40,2,0,Good,0,1,0,0,2,Installed,Gas,Walloon Brabant
 house,zulte,9870,10644186,465000.0,Holstraat 86,3,NS,0.0,0,1,0,895,0,3,2023,0,0,1,0,1,0,0,0,East Flanders
 apartment,westende,8434,10644185,120000.0,Distellaan 34,1,B,166.0,1,0,0,0,0,2,1967,0,0,1,0,0,0,0,Gas,West Flanders
-country-cottage,braives fumal,4260,10644184,31900000.0,Avenue du Condroz 1/0,3,F,294.0,0,0,0,3332,34,4,0,0,0,1,0,0,0,0,Fuel oil,Liège
+country-cottage,braives fumal,4260,10644184,319000.0,Avenue du Condroz 1/0,3,F,294.0,0,0,0,3332,34,4,0,0,0,1,0,0,0,0,Fuel oil,Liège
 house,nukerke,9681,10644183,225000.0,Gentiel Antheunisplein 6,2,F,777.0,0,0,0,1226,0,0,0,0,0,0,0,0,1,0,0,East Flanders
 apartment,antwerp,2000,10644179,388000.0,Van Eycklei 17,3,C,295.0,0,0,0,0,45,0,0,To renovate,0,0,1,0,2,Semi equipped,Fuel oil,Antwerp
 house,boom,2850,10644177,295000.0,Dr. Persoonslaan 15 b,3,E,480.0,0,1,0,515,0,2,1953,0,0,1,0,0,1,Semi equipped,Electric,Antwerp
@@ -8301,6 +8340,7 @@ house,beyne-heusay,4610,10643718,399000.0,Avenue Franklin Roosevelt 22A,5,C,218.
 house,geraardsbergen,9500,10643713,245000.0,Industrielaan 14,3,F,938.0,0,0,0,100,0,3,0,Good,0,1,1,0,1,Installed,Pellet,East Flanders
 ground-floor,bruxelles,1000,10609993,259500.0,Rue T. De Cuyper 119/56,1,C,119.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Gas,Brussels Capital Region
 house,sart-eustache,5070,10643706,250000.0,Rue Albert 1er 24,3,G,574.0,0,0,15,1357,30,4,1962,0,0,1,0,0,0,0,0,Namur
+apartment-block,forest,1190,10643704,2.0,Avenue Charles Quint 515,0,G,376.0,0,0,0,0,0,3,0,To renovate,0,0,8,0,8,Semi equipped,Gas,Brussels Capital Region
 villa,everberg,3078,10643701,569000.0,Parklaan 8,3,C,276.0,0,1,0,1000,35,4,1972,As new,0,2,0,0,1,USA hyper equipped,Fuel oil,Flemish Brabant
 villa,dottignies,7711,10643695,560000.0,"Avenue du Château, 200",4,B,164.0,0,1,0,2445,50,4,0,Good,0,1,1,0,2,Installed,Gas,Hainaut (West)
 house,aalst,9300,10582252,159000.0,Brusselbaan 90,2,C,288.0,0,0,0,40,22,2,0,To renovate,0,1,0,0,1,Not installed,Gas,East Flanders
@@ -8346,7 +8386,7 @@ villa,merchtem,1785,10643565,1250000.0,Amerikaansestraat 179,8,C,228.0,0,1,0,584
 house,roeselare,8800,10643560,250000.0,Noordlaan 51,5,E,486.0,0,1,0,181,0,3,0,Good,0,3,0,0,0,0,0,West Flanders
 house,eupen,4700,10643559,199000.0,Bergstrasse 44,2,E,370.0,0,0,0,140,0,2,0,0,0,2,0,0,0,Installed,Gas,Liège
 house,menen,8930,10643558,189000.0,Wevelgemstraat 118,3,F,547.0,0,0,0,125,32,2,1955,Good,0,1,0,0,1,0,0,West Flanders
-house,menen,8930,10643557,107000.0,Plaats 2,2,D,400.0,0,0,0,93,0,0,1919,0,0,1,0,0,0,0,0,West Flanders
+house,menen,8930,10643557,107.0,Plaats 2,2,D,400.0,0,0,0,93,0,0,1919,0,0,1,0,0,0,0,0,West Flanders
 apartment,ath,7800,10643554,278000.0,Rue de l'Esplanade 11,3,A,65.0,0,0,8,0,0,0,2020,0,0,1,1,0,2,Installed,Gas,Hainaut (West)
 house,vrasene,9120,10562482,375000.0,Parklaan 59 bus1,2,E,450.0,0,0,40,622,40,4,1958,Good,0,1,0,0,2,Installed,Gas,East Flanders
 house,oostende,8400,10643539,299000.0,Leopoldlaan 85,3,C,257.0,0,1,0,266,0,0,0,As new,0,0,0,0,2,Hyper equipped,Gas,West Flanders
@@ -8416,7 +8456,7 @@ house,herentals,2200,10643388,178000.0,Kerkplein 1,2,F,810.0,0,1,0,180,26,2,1930
 house,zoutleeuw,3440,10643387,112000.0,Kerkplein 1,3,F,578.0,0,1,0,95,0,2,1962,To renovate,0,1,0,0,1,0,0,Flemish Brabant
 duplex,antwerp,2000,10643386,339000.0,Kerkplein 1,2,B,159.0,1,0,0,0,0,2,1852,Good,0,1,0,0,2,Hyper equipped,Gas,Antwerp
 exceptional-property,geel,2440,10643383,672000.0,Kerkplein 1,5,F,611.0,0,1,0,1875,42,4,1971,Good,0,1,0,1,2,0,Fuel oil,Antwerp
-exceptional-property,geel,2440,10643382,1490.0,Kerkplein 1,5,F,611.0,0,1,0,917,42,4,1971,Good,0,1,0,1,2,0,Fuel oil,Antwerp
+exceptional-property,geel,2440,10643382,149.0,Kerkplein 1,5,F,611.0,0,1,0,917,42,4,1971,Good,0,1,0,1,2,0,Fuel oil,Antwerp
 villa,sint-gillis-waas,9170,10643375,475000.0,Parklaan 187,4,C,294.0,0,0,24,731,52,0,0,Good,0,0,1,0,2,Installed,Gas,East Flanders
 apartment-block,mechelen,2800,10643374,825000.0,Mgr. Ladeuzeplein 33,5,NS,0.0,0,0,13,80,0,2,0,Just renovated,0,5,0,0,5,Installed,Gas,Antwerp
 mixed-use-building,gembloux,5030,10643368,1100000.0,Chaussée de Louvain 258,0,NS,0.0,0,0,187,3078,97,4,0,Good,0,0,0,1,1,0,Gas,Namur
