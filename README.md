@@ -14,6 +14,9 @@ The project is about
 * create '.gitignore' and include new environment in it.
 
 ## Usage:
+
+![Capture](./Capture.PNG)
+
 This project contains notebooks that has data cleaning process and few intrepretations to get clear view of data.
 It is used to get clear view about few types of data visualisation, data cleaning process and a way to nalyse data.
 
