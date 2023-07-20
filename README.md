@@ -7,8 +7,20 @@ This project contains two parts:
 * regression (model building)
 
 # Installation:
-* install numpy, seaborn, numpy, matplotlib.pyplot with 'pip install numpy'.
-* install pandas, numpy, sklearn.model_selection, sklearn.linear_model, sklearn.preprocessing, xgboost, sklearn.tree, sklearn.neighbors, sklearn.ensemble, sklearn.metrics
+Install the following modules in your environment:
+1. pandas
+2. numpy
+3. sklearn.model_selection
+4. sklearn.linear_model
+5. sklearn.preprocessing
+6. xgboost
+7. sklearn.tree
+8. sklearn.neighbors
+9. sklearn.ensemble
+10. sklearn.metrics
+11. seaborn
+12. matplotlib.pyplot 
+
 
 # Usage:
 OUTPUT - analysation
