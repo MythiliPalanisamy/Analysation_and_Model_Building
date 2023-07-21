@@ -24,6 +24,7 @@ The project is about:
 10. sklearn.metrics
 
 use following links to get to know more about modules and its installation:-
+
 [![pandas](https://img.shields.io/badge/pandas-1.3.5-red)](https://pandas.pydata.org/pandas-docs/version/1.3/getting_started/install.html)
 [![numpy](https://img.shields.io/badge/numpy-1.21.6-orange)](https://pypi.org/project/numpy/1.21.6/)
 [![scikit](https://img.shields.io/badge/scikit_learn-1.0.2-yellow)](https://pypi.org/project/scikit-learn/1.0.2/)
