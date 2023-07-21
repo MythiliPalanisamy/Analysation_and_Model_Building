@@ -1,3 +1,4 @@
+![picture](./assets/picture.jpg)
 # Project Prediction
 This project @ BeCode.org as part of the AI Bootcamp in Gent.
 
