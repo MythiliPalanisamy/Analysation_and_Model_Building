@@ -30,8 +30,7 @@ Used the following modules in this project
 11. seaborn
 12. matplotlib.pyplot 
 
-
-# Usage:
+# Result
 OUTPUT - analysation
 * correlation
 * Expensive municipalities (more and less)
@@ -44,7 +43,15 @@ OUTPUT - Regression
 * xgboostReg
 * RandomForestReg
 
-We get the above output for 10,000 scrapped and analysed data of immoweb.
-This helps to predict 'price' for new data
+--> The output is for 10,000 scrapped and analysed data from immoweb.
+--> This helps to predict 'price' for new data.
+
+# Completion:
+* Name - Mythili Palanisamy
+* Repository - analysing and regression
+* Type of Challenge - Consolidation
+* Duration - 4.5 days
+* Submission - 20/07/2023 4:30 PM
+* Team challenge - solo
 
 
