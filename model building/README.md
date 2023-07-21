@@ -1,4 +1,5 @@
-![regression](./assets/regression.jpg)
+![regression](../assets/regression.jpg)
+
 This project @ BeCode.org as part of the AI Bootcamp in Gent.
 
 # Description:
