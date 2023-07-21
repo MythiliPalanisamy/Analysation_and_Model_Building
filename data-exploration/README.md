@@ -1,4 +1,5 @@
-![analyse](./assets/analyse.webp)
+![analyse](../assets/analyse.webp)
+
 This project @ BeCode.org as part of the AI Bootcamp in Gent.
 
 ## Description:
