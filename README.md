@@ -8,7 +8,15 @@ This project contains two parts:
 * regression (model building)
 
 # Installation:
-Install the following modules in your environment:
+[![pandas](https://img.shields.io/badge/pandas-1.3.5-red)](https://pandas.pydata.org/pandas-docs/version/1.3/getting_started/install.html)
+[![numpy](https://img.shields.io/badge/numpy-1.21.6-orange)](https://pypi.org/project/numpy/1.21.6/)
+[![scikit](https://img.shields.io/badge/scikit_learn-1.0.2-yellow)](https://pypi.org/project/scikit-learn/1.0.2/)
+[![xgboost](https://img.shields.io/badge/xgboost-1.6.2-green)](https://xgboost.readthedocs.io/en/stable/install.html)
+[![seaborn](https://img.shields.io/badge/seaborn-0.12.1-blue)](https://seaborn.pydata.org/installing.html)
+[![matplotlib](https://img.shields.io/badge/matplotlib-3.5.3-indigo)](https://seaborn.pydata.org/installing.html)
+
+Used the following modules in this project
+
 1. pandas
 2. numpy
 3. sklearn.model_selection
