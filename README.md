@@ -7,9 +7,7 @@
 3. [Project Structure](#project-structure) 🚀 
 4. [Installation](#installation) 🔧 
 5. [Results](#results) 📊 
-6. [Database Schema](#database-schema) 📈 
-7. [Usage](#usage) 🎮 
-8. [Completion](#completion) 🏁 
+6. [Completion](#completion) 🏁 
 
 <a name="introduction"></a>
 ## 📌 Introduction
@@ -47,17 +45,12 @@ This project contains two parts:
 * clone the repository
 * install the specified modules within the required environment 
 
-## Results
-
-
-
-
---> The output is for 10,000 scrapped and analysed data from immoweb.
---> This helps to predict 'price' for new data.
+<a name="results"></a>
+## 📊 Results  
+Extracted the best regression model as pickle file (which is in model building folder)
 
 ## 🏁 Completion 
 * Name - Mythili Palanisamy
-* Duration - 4.5 days
 * Submission - 20/07/2023 4:30 PM
 * Team type - solo
 
