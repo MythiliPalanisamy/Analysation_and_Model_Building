@@ -31,7 +31,7 @@ This project contains two parts:
 
 <a name="project-structure"></a>
 ## 🚀 Project Structure
-
+![picture](./assets/Capture1.PNG)
 
 <a name="installation"></a>
 ## 🔧 Installation
