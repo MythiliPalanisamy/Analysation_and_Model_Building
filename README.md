@@ -20,9 +20,9 @@ This project as part of the AI Bootcamp @becode.org in Gent aims to analyse and 
 
 This project contains two parts:
 ### 🔎 Analysation (data exploration)  
-* Correlation
-* Expensive municipalities (more and less)
-* Relationship between price and other variables
+* Cleaning the process
+* Finding insights and answers for some of the client questions
+* Findings of relationship between price and other variables
    
 ### 🧱 Regression (model building)  
 * LinearRegression
